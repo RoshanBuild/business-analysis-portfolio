@@ -1,0 +1,1201 @@
+Order ID,Order Date,Outlet ID,Outlet Type,Outlet Size,Outlet Location,Establishment Year,Product ID,Item Type,Item Fat Content,Units,Sales,Rating,Item Visibility
+ORD100000,19-02-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU7938,Snacks,Regular,1,2.82,4,0.037
+ORD100001,30-04-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4627,Personal Care,Low Fat,1,4.63,3.8,0.103
+ORD100002,09-07-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU7585,Dairy,Low Fat,6,11.97,3.2,0.048
+ORD100003,23-04-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU3931,Dairy,Regular,8,13.62,4.6,0.068
+ORD100004,06-07-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU6534,Snacks,Regular,4,13.46,3.4,0.087
+ORD100005,02-01-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU5199,Household,Regular,1,5.98,4.1,0.043
+ORD100006,14-08-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU2693,Snacks,Regular,7,23.77,3.9,0.116
+ORD100007,11-10-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU1699,Produce,Regular,3,6.48,3.6,0.035
+ORD100008,08-05-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU6801,Produce,Regular,3,6.27,4.1,0.081
+ORD100009,16-11-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU7457,Dairy,Low Fat,3,6.78,4.2,0.024
+ORD100010,21-09-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1830,Household,Low Fat,1,4.36,4.4,0.133
+ORD100011,26-09-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU6188,Snacks,Low Fat,1,2.7,4.3,0.098
+ORD100012,23-12-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU7833,Produce,Regular,1,2.07,3.9,0.093
+ORD100013,02-12-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4267,Dairy,Low Fat,2,4.68,4.3,0.074
+ORD100014,30-12-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3914,Household,Regular,1,5.01,4.5,0.064
+ORD100015,26-06-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU2167,Meat,Low Fat,3,27.42,4,0.053
+ORD100016,26-09-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2540,Household,Regular,1,5.33,3.3,0.089
+ORD100017,29-12-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU2214,Meat,Regular,1,7.78,4,0.055
+ORD100018,27-02-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4486,Produce,Regular,10,17.31,4.8,0.091
+ORD100019,23-02-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3779,Personal Care,Regular,1,4.13,3.9,0.099
+ORD100020,26-03-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU8266,Beverages,Regular,1,2.63,5,0.09
+ORD100021,08-11-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU5363,Household,Regular,3,15.43,4.2,0.12
+ORD100022,07-07-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU5261,Dairy,Regular,1,1.92,4.3,0.137
+ORD100023,18-05-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1666,Canned Foods,Low Fat,2,5.17,3.8,0.066
+ORD100024,25-10-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU2276,Dairy,Regular,8,17.92,4,0.103
+ORD100025,31-12-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7229,Dairy,Regular,1,1.77,4.8,0.106
+ORD100026,19-04-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1876,Dairy,Low Fat,1,1.81,3.4,0.116
+ORD100027,16-12-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU7316,Produce,Regular,2,3.98,3.7,0.05
+ORD100028,13-08-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU3060,Meat,Regular,2,21.74,3.7,0.074
+ORD100029,24-08-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU3898,Snacks,Regular,2,6.14,2.9,0.091
+ORD100030,30-03-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU2970,Snacks,Regular,1,3.55,3.6,0.054
+ORD100031,23-04-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU7371,Frozen,Regular,1,6.46,4,0.155
+ORD100032,16-02-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1814,Bakery,Regular,1,3.9,4.1,0.106
+ORD100033,30-09-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU6732,Snacks,Low Fat,8,20.63,5,0.096
+ORD100034,26-08-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU2205,Bakery,Regular,1,2.08,4,0.073
+ORD100035,24-10-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU5524,Snacks,Low Fat,1,3.31,4.2,0.115
+ORD100036,06-10-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1054,Personal Care,Low Fat,1,4.56,4.6,0.102
+ORD100037,13-12-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU7150,Canned Foods,Low Fat,2,4.15,4.3,0.094
+ORD100038,03-07-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8083,Produce,Low Fat,1,2.05,3.5,0.079
+ORD100039,10-06-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU8184,Produce,Low Fat,1,2.1,4.9,0.079
+ORD100040,08-12-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU5788,Snacks,Regular,1,2.72,3.3,0.052
+ORD100041,17-03-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU7122,Frozen,Low Fat,1,4.78,3.8,0.087
+ORD100042,06-11-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU6136,Meat,Regular,6,38.5,3.9,0.112
+ORD100043,23-10-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU1390,Frozen,Regular,1,6.11,3.5,0.112
+ORD100044,06-04-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU9684,Dairy,Regular,1,2.02,4.5,0.064
+ORD100045,28-11-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU9623,Produce,Low Fat,1,2.42,4,0.087
+ORD100046,21-08-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU4564,Snacks,Regular,1,2.94,3.7,0.094
+ORD100047,28-12-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU5675,Beverages,Regular,1,2.69,3.7,0.068
+ORD100048,09-07-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU4020,Beverages,Regular,4,10.06,4.5,0.085
+ORD100049,09-02-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3808,Canned Foods,Low Fat,1,2.82,3.9,0.084
+ORD100050,23-03-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6352,Snacks,Low Fat,6,21.26,3.3,0.085
+ORD100051,01-01-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU6126,Produce,Regular,1,2.12,3.8,0.114
+ORD100052,04-04-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1988,Meat,Regular,5,51.08,3.5,0.034
+ORD100053,24-07-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU1959,Beverages,Low Fat,1,2.24,3.9,0.04
+ORD100054,31-03-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU2389,Produce,Regular,7,15.89,4.6,0.088
+ORD100055,05-02-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU7732,Beverages,Regular,1,2.68,3.5,0.072
+ORD100056,02-05-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU9442,Personal Care,Regular,1,4.39,5,0.121
+ORD100057,19-03-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU8979,Beverages,Regular,1,2.67,3.5,0.103
+ORD100058,22-05-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU7563,Frozen,Regular,1,7.41,3.2,0.12
+ORD100059,25-01-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU5648,Snacks,Regular,1,3.2,3.9,0.112
+ORD100060,10-05-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU6724,Dairy,Regular,1,1.92,4.6,0.099
+ORD100061,30-07-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1281,Snacks,Regular,1,2.37,3.9,0.049
+ORD100062,16-04-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU7294,Frozen,Regular,1,7,3.5,0.098
+ORD100063,09-05-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4072,Household,Regular,1,4.21,3.5,0.129
+ORD100064,06-10-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU2000,Canned Foods,Low Fat,1,2.38,4.5,0.109
+ORD100065,24-12-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU7471,Produce,Low Fat,1,1.6,3.8,0.079
+ORD100066,12-01-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1140,Canned Foods,Low Fat,1,2.49,3.5,0.054
+ORD100067,21-01-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU3359,Household,Regular,3,12.79,3.6,0.075
+ORD100068,13-07-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU4273,Bakery,Low Fat,3,9.61,4.2,0.046
+ORD100069,04-11-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7602,Bakery,Low Fat,9,30.32,4.3,0.129
+ORD100070,02-10-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU4610,Personal Care,Regular,2,8.76,3.2,0.047
+ORD100071,08-12-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU1207,Household,Low Fat,1,5.55,4.6,0.071
+ORD100072,06-09-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3785,Snacks,Low Fat,1,2.87,3.8,0.045
+ORD100073,31-01-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU9785,Meat,Regular,1,6.15,4.2,0.14
+ORD100074,26-12-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU5259,Frozen,Regular,1,5.54,4.5,0.056
+ORD100075,21-08-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7525,Snacks,Regular,10,31.58,4.1,0.07
+ORD100076,24-03-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU8870,Household,Regular,1,4.62,3.4,0.116
+ORD100077,21-08-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU5268,Personal Care,Regular,1,3.81,3.3,0.057
+ORD100078,04-11-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU8177,Beverages,Low Fat,5,14.02,3.6,0.079
+ORD100079,27-12-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU3711,Beverages,Regular,1,2.99,2.8,0.086
+ORD100080,12-03-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU7979,Snacks,Regular,2,6.41,5,0.061
+ORD100081,09-01-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3461,Meat,Low Fat,5,45.57,4,0.141
+ORD100082,02-05-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU4537,Beverages,Low Fat,1,2.27,4.1,0.08
+ORD100083,03-12-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU6343,Meat,Regular,4,34.57,3.4,0.112
+ORD100084,29-10-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU4983,Produce,Regular,1,2.22,3.8,0.132
+ORD100085,15-08-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU7841,Beverages,Regular,1,2.35,5,0.116
+ORD100086,17-08-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU2169,Household,Regular,1,5.58,4.4,0.054
+ORD100087,22-10-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU7397,Household,Regular,1,4.6,4.2,0.086
+ORD100088,01-07-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU1685,Household,Low Fat,1,5.3,3.7,0.091
+ORD100089,25-05-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1689,Dairy,Low Fat,1,2.04,4.4,0.072
+ORD100090,01-08-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU7588,Produce,Regular,1,1.87,3.7,0.099
+ORD100091,16-08-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU4750,Beverages,Regular,1,2.33,4,0.058
+ORD100092,03-09-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU3113,Household,Low Fat,1,5.66,4,0.075
+ORD100093,24-08-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU5943,Snacks,Regular,3,13.31,3.9,0.095
+ORD100094,17-07-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1923,Dairy,Regular,4,6.57,3.9,0.081
+ORD100095,18-07-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7299,Snacks,Low Fat,3,8.64,3.9,0.069
+ORD100096,10-02-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU6779,Snacks,Regular,1,2.77,4.4,0.121
+ORD100097,23-05-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1141,Bakery,Regular,3,12.09,2.9,0.105
+ORD100098,19-08-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU2531,Produce,Regular,2,3.12,3.9,0.029
+ORD100099,31-03-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU2492,Produce,Low Fat,1,2.16,3.5,0.087
+ORD100100,24-11-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU2846,Produce,Regular,1,1.93,3.6,0.145
+ORD100101,13-12-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9333,Frozen,Regular,1,5.84,3.6,0.06
+ORD100102,24-09-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5912,Bakery,Regular,1,3.33,3.6,0.112
+ORD100103,18-02-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1987,Household,Regular,3,15.05,4.1,0.062
+ORD100104,16-09-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU5658,Canned Foods,Regular,4,11.43,4.1,0.062
+ORD100105,22-01-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU2130,Personal Care,Low Fat,1,4.22,3.4,0.108
+ORD100106,19-11-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU1006,Snacks,Low Fat,1,2.86,4.4,0.119
+ORD100107,06-05-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1442,Beverages,Low Fat,1,3.02,3.1,0.036
+ORD100108,05-05-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU2936,Snacks,Regular,1,3.24,3,0.085
+ORD100109,31-03-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU7652,Snacks,Regular,10,24.69,4.1,0.107
+ORD100110,01-02-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU1475,Household,Low Fat,1,4.73,5,0.081
+ORD100111,30-03-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU6806,Bakery,Low Fat,2,7.69,4.3,0.083
+ORD100112,26-04-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU6929,Produce,Regular,2,4.65,4.2,0.116
+ORD100113,19-01-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU9448,Produce,Regular,3,5.22,3.6,0.086
+ORD100114,30-07-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU2497,Snacks,Regular,1,2.55,3.6,0.106
+ORD100115,16-11-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU8651,Bakery,Low Fat,1,3.17,4.1,0.065
+ORD100116,16-02-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU8161,Beverages,Regular,3,8.28,4.8,0.086
+ORD100117,25-01-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU9662,Meat,Regular,1,9.08,4.8,0.04
+ORD100118,24-06-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU6621,Beverages,Low Fat,6,8.63,4,0.037
+ORD100119,22-05-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU2751,Dairy,Regular,5,9.69,4.2,0.062
+ORD100120,28-07-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU4841,Canned Foods,Regular,1,2.41,3.5,0.01
+ORD100121,02-06-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU2524,Bakery,Regular,1,3.4,3.6,0.102
+ORD100122,12-01-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU6345,Snacks,Regular,1,2.92,4.8,0.081
+ORD100123,24-06-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1215,Meat,Regular,2,16.55,3.6,0.082
+ORD100124,04-03-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU2757,Bakery,Low Fat,1,3.47,4.6,0.089
+ORD100125,27-11-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1619,Beverages,Regular,3,8.27,4,0.097
+ORD100126,04-06-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU9155,Household,Regular,5,27.36,3.4,0.059
+ORD100127,01-04-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3451,Frozen,Regular,2,10.05,3.1,0.11
+ORD100128,26-04-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3780,Produce,Regular,1,2.15,4.9,0.025
+ORD100129,01-12-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU5570,Personal Care,Regular,1,3.54,4,0.101
+ORD100130,09-02-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU9891,Produce,Low Fat,1,1.78,3.5,0.049
+ORD100131,23-04-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU6141,Personal Care,Low Fat,1,3.55,4.9,0.109
+ORD100132,26-07-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2104,Snacks,Regular,5,16.2,4.4,0.07
+ORD100133,11-02-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU5160,Meat,Low Fat,1,10.15,4.6,0.01
+ORD100134,04-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU7426,Frozen,Regular,1,6.38,3.8,0.097
+ORD100135,11-11-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU1139,Dairy,Regular,1,2.3,4.6,0.054
+ORD100136,28-04-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU8196,Beverages,Regular,1,2.49,3.9,0.092
+ORD100137,01-03-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU2518,Snacks,Regular,6,18.1,3.7,0.072
+ORD100138,19-08-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU3642,Snacks,Regular,1,3.25,4.2,0.092
+ORD100139,25-01-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5937,Produce,Regular,1,1.6,3.6,0.076
+ORD100140,02-01-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU5897,Beverages,Low Fat,1,3.14,3.8,0.128
+ORD100141,01-10-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU6488,Frozen,Regular,4,27.59,4.5,0.073
+ORD100142,12-01-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU4278,Canned Foods,Regular,1,2.78,3.9,0.081
+ORD100143,09-05-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU4927,Household,Regular,3,12.74,4.3,0.072
+ORD100144,14-09-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU9143,Dairy,Low Fat,2,5.23,3.4,0.094
+ORD100145,10-05-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU2673,Snacks,Low Fat,2,5.17,3.5,0.086
+ORD100146,31-10-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU5236,Dairy,Low Fat,4,8.66,5,0.088
+ORD100147,13-07-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU8374,Frozen,Regular,4,20.7,4.4,0.052
+ORD100148,30-10-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU7801,Bakery,Low Fat,4,13.42,4.5,0.095
+ORD100149,04-04-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7003,Frozen,Low Fat,1,6.04,4.3,0.074
+ORD100150,16-06-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU8871,Produce,Low Fat,2,4.95,3.4,0.046
+ORD100151,28-12-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9841,Personal Care,Regular,1,3.03,3.5,0.126
+ORD100152,20-10-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU5933,Frozen,Regular,3,20,4.4,0.068
+ORD100153,18-06-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU2205,Household,Low Fat,2,9.24,4.3,0.111
+ORD100154,08-05-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU1919,Beverages,Regular,1,2.65,4.5,0.14
+ORD100155,18-05-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU6780,Frozen,Regular,7,48.45,4.6,0.096
+ORD100156,03-11-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU1615,Bakery,Low Fat,2,9.09,3.7,0.07
+ORD100157,10-01-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7055,Household,Low Fat,1,5.26,3.8,0.085
+ORD100158,02-10-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU4294,Produce,Low Fat,7,16.5,3.9,0.075
+ORD100159,02-08-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9775,Household,Low Fat,1,4.64,4.4,0.061
+ORD100160,22-06-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU8357,Produce,Low Fat,1,2.06,5,0.09
+ORD100161,24-12-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU1844,Frozen,Regular,2,10.19,2.3,0.036
+ORD100162,31-01-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU7139,Produce,Low Fat,1,2.44,3.4,0.087
+ORD100163,28-01-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8869,Household,Regular,8,33.42,5,0.148
+ORD100164,23-01-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU9519,Beverages,Regular,1,2.61,3.9,0.013
+ORD100165,05-06-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU8069,Frozen,Low Fat,1,4.09,4.6,0.073
+ORD100166,09-01-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8850,Beverages,Regular,2,5.21,3.3,0.086
+ORD100167,08-12-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU5763,Meat,Low Fat,1,8.26,3.5,0.096
+ORD100168,20-10-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU5891,Beverages,Low Fat,1,2.87,3.8,0.099
+ORD100169,17-05-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU1270,Household,Regular,1,4.86,3.8,0.097
+ORD100170,17-12-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3341,Frozen,Low Fat,2,13.4,4.7,0.026
+ORD100171,24-05-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5668,Personal Care,Regular,3,14.47,3.6,0.073
+ORD100172,08-08-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU7100,Beverages,Regular,1,2.51,3.8,0.048
+ORD100173,09-02-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU1071,Snacks,Regular,3,9.3,3.8,0.115
+ORD100174,12-10-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU8566,Household,Regular,1,5.13,4.2,0.074
+ORD100175,02-05-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5524,Personal Care,Low Fat,1,3.62,4.9,0.085
+ORD100176,16-05-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1422,Produce,Regular,2,3.82,4.1,0.085
+ORD100177,09-05-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU6054,Produce,Regular,1,2.38,3.6,0.118
+ORD100178,30-03-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU3931,Canned Foods,Regular,1,2.06,3.9,0.071
+ORD100179,19-12-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU6450,Canned Foods,Low Fat,1,2.05,3.7,0.111
+ORD100180,25-10-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1464,Snacks,Low Fat,1,2.95,3.6,0.105
+ORD100181,04-02-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU5933,Produce,Low Fat,1,1.89,3.5,0.073
+ORD100182,07-08-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU4406,Canned Foods,Regular,3,8.6,4.3,0.047
+ORD100183,05-10-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2907,Produce,Regular,1,1.9,4.8,0.113
+ORD100184,16-01-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU7553,Household,Regular,1,5.51,4,0.115
+ORD100185,30-10-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU8206,Personal Care,Low Fat,1,3.24,4.7,0.014
+ORD100186,11-07-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU8189,Personal Care,Regular,1,4.36,4.1,0.099
+ORD100187,21-10-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1609,Canned Foods,Low Fat,1,2.9,4.1,0.104
+ORD100188,25-07-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5603,Produce,Low Fat,1,1.87,2.8,0.056
+ORD100189,12-07-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU1242,Household,Low Fat,1,4.86,4.4,0.123
+ORD100190,07-07-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5875,Beverages,Low Fat,1,2.64,3.9,0.027
+ORD100191,12-01-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU2652,Dairy,Regular,1,2.05,4.2,0.085
+ORD100192,16-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU8008,Bakery,Low Fat,1,3.74,3.5,0.045
+ORD100193,04-08-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU7106,Produce,Low Fat,1,1.49,3.9,0.051
+ORD100194,01-07-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6275,Canned Foods,Low Fat,1,2.47,4,0.139
+ORD100195,31-10-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU7533,Meat,Regular,2,12.67,3.9,0.065
+ORD100196,30-08-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU6811,Bakery,Regular,1,3.41,3.3,0.091
+ORD100197,13-01-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU9415,Snacks,Low Fat,1,3.1,4.6,0.138
+ORD100198,20-02-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU5086,Bakery,Regular,1,3.38,4,0.081
+ORD100199,09-01-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU5056,Dairy,Low Fat,5,9.36,4.4,0.113
+ORD100200,20-06-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU6089,Snacks,Low Fat,1,3.02,4.2,0.041
+ORD100201,29-04-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU5658,Household,Low Fat,2,9.94,3.9,0.081
+ORD100202,17-03-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU5086,Snacks,Low Fat,1,2.53,3.9,0.027
+ORD100203,27-07-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3693,Produce,Low Fat,1,1.67,3.7,0.126
+ORD100204,23-10-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU1901,Snacks,Low Fat,1,3.29,4.1,0.077
+ORD100205,26-05-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU6618,Household,Low Fat,1,4.03,3.5,0.065
+ORD100206,21-05-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU2191,Beverages,Regular,2,4.92,4.5,0.137
+ORD100207,09-06-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU8675,Dairy,Regular,2,4.45,3.6,0.112
+ORD100208,01-03-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU2605,Produce,Low Fat,1,1.89,3.8,0.111
+ORD100209,13-08-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5327,Frozen,Regular,3,14.17,4.1,0.057
+ORD100210,22-06-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU5994,Dairy,Low Fat,1,2,3.9,0.087
+ORD100211,06-04-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1463,Meat,Regular,3,21.95,3.4,0.068
+ORD100212,21-11-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU7414,Beverages,Low Fat,3,8.35,3.5,0.109
+ORD100213,18-12-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU5435,Bakery,Regular,1,3.68,3.7,0.097
+ORD100214,26-09-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU7852,Produce,Regular,3,6.12,3.5,0.026
+ORD100215,06-06-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8867,Household,Low Fat,10,50.81,4.6,0.067
+ORD100216,17-08-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6187,Household,Low Fat,9,38.42,4.7,0.1
+ORD100217,19-04-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU3159,Meat,Regular,2,14.67,4.5,0.094
+ORD100218,23-07-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU3895,Beverages,Regular,1,2.5,4.6,0.082
+ORD100219,24-03-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU4129,Beverages,Low Fat,1,2.59,3.4,0.026
+ORD100220,06-04-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3460,Produce,Regular,1,2.08,4.4,0.043
+ORD100221,30-10-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8366,Beverages,Low Fat,1,2.08,3.8,0.041
+ORD100222,12-09-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU4720,Snacks,Low Fat,1,3.08,3.5,0.129
+ORD100223,26-11-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU8246,Beverages,Low Fat,1,2.73,4.2,0.071
+ORD100224,22-06-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU8011,Meat,Low Fat,5,48.36,4.4,0.093
+ORD100225,15-07-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU3506,Meat,Regular,1,8.46,3.7,0.108
+ORD100226,20-02-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU8489,Produce,Regular,3,4.45,3.6,0.081
+ORD100227,05-10-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU2032,Household,Low Fat,2,11.1,3.7,0.062
+ORD100228,07-06-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU1882,Household,Low Fat,1,5.77,4.5,0.086
+ORD100229,01-11-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU6127,Personal Care,Regular,2,9.07,4.1,0.01
+ORD100230,07-09-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU9084,Frozen,Low Fat,1,4.77,4.3,0.01
+ORD100231,04-04-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU3623,Beverages,Regular,1,2.26,3.9,0.055
+ORD100232,11-03-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU6720,Dairy,Low Fat,1,1.78,5,0.129
+ORD100233,12-04-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6092,Meat,Low Fat,1,7.86,3.8,0.108
+ORD100234,11-09-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7154,Snacks,Low Fat,2,4.54,3.8,0.115
+ORD100235,27-09-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU9388,Personal Care,Regular,7,27.19,3.9,0.04
+ORD100236,24-07-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU9412,Dairy,Regular,1,1.71,3.5,0.116
+ORD100237,27-07-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU5951,Bakery,Regular,1,3.24,4.8,0.11
+ORD100238,09-03-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8706,Household,Regular,1,3.23,3.7,0.057
+ORD100239,09-12-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU1579,Snacks,Low Fat,1,2.98,3,0.065
+ORD100240,29-01-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU4555,Beverages,Regular,1,2.59,3.6,0.122
+ORD100241,05-04-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU2407,Dairy,Low Fat,2,4.2,4.6,0.09
+ORD100242,06-07-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1848,Canned Foods,Regular,1,2.57,4.2,0.139
+ORD100243,25-11-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU1203,Personal Care,Low Fat,3,14.24,4,0.076
+ORD100244,16-12-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU2099,Dairy,Low Fat,2,4.35,3.6,0.063
+ORD100245,13-04-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU8367,Household,Regular,6,28.15,4.4,0.071
+ORD100246,13-02-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU7523,Snacks,Low Fat,7,16.84,2.9,0.089
+ORD100247,14-11-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1508,Meat,Regular,1,8.06,4.6,0.034
+ORD100248,24-10-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU9501,Beverages,Low Fat,1,2.32,3.2,0.087
+ORD100249,19-09-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9418,Personal Care,Regular,3,11.33,4.1,0.052
+ORD100250,27-08-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU5934,Beverages,Low Fat,1,2.33,4.1,0.138
+ORD100251,30-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU8645,Personal Care,Regular,1,2.84,3.5,0.053
+ORD100252,23-03-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU7636,Dairy,Regular,1,1.82,3.8,0.059
+ORD100253,08-01-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5161,Dairy,Regular,1,1.57,4.2,0.112
+ORD100254,03-09-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU1501,Produce,Regular,5,10.96,3.9,0.097
+ORD100255,12-09-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU6336,Snacks,Low Fat,4,13.31,4.2,0.033
+ORD100256,17-06-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU4815,Meat,Regular,1,6.81,4,0.027
+ORD100257,14-09-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU9828,Dairy,Regular,1,2.1,4.5,0.097
+ORD100258,08-02-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU6577,Beverages,Low Fat,2,5.66,4,0.092
+ORD100259,30-06-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU4787,Snacks,Low Fat,1,2.57,4.3,0.088
+ORD100260,03-10-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU2132,Bakery,Regular,1,4.21,3.4,0.139
+ORD100261,08-02-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU8396,Household,Low Fat,3,15.93,3.7,0.01
+ORD100262,01-11-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8281,Beverages,Regular,2,5.65,3.5,0.078
+ORD100263,21-12-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4876,Meat,Regular,1,7.64,4.3,0.119
+ORD100264,11-07-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU6419,Snacks,Low Fat,1,3.18,3.5,0.106
+ORD100265,27-02-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU1810,Bakery,Regular,1,3.86,3.5,0.105
+ORD100266,20-10-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU7862,Bakery,Regular,1,3.67,4.1,0.051
+ORD100267,13-11-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU6738,Beverages,Regular,1,3.25,3.3,0.078
+ORD100268,05-07-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU4257,Snacks,Regular,4,12.66,3.9,0.146
+ORD100269,01-08-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU3178,Snacks,Low Fat,1,3.25,4.3,0.031
+ORD100270,07-09-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1028,Personal Care,Low Fat,1,3.61,3.2,0.042
+ORD100271,15-06-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU4071,Meat,Regular,1,6.5,4.1,0.063
+ORD100272,21-05-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU7566,Meat,Regular,2,16.09,3.9,0.086
+ORD100273,23-11-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU7475,Meat,Low Fat,2,17.24,3.2,0.097
+ORD100274,07-08-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8135,Beverages,Regular,3,8.24,3.4,0.103
+ORD100275,26-05-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU6906,Frozen,Low Fat,3,15.39,4.5,0.063
+ORD100276,11-03-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU1858,Household,Regular,3,14.55,3.4,0.1
+ORD100277,16-01-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7085,Snacks,Regular,1,2.54,4.1,0.082
+ORD100278,31-07-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4949,Beverages,Low Fat,1,2.88,4.6,0.069
+ORD100279,16-05-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU9405,Beverages,Regular,5,12.77,4.6,0.096
+ORD100280,03-05-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU6330,Household,Regular,2,11.22,4,0.038
+ORD100281,23-10-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU3269,Snacks,Low Fat,7,20.25,3.7,0.109
+ORD100282,29-04-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU8637,Canned Foods,Regular,1,1.76,3.9,0.1
+ORD100283,05-11-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU6609,Snacks,Regular,3,10.41,4.7,0.024
+ORD100284,14-04-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5911,Bakery,Low Fat,1,4,4.1,0.051
+ORD100285,20-11-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU5808,Dairy,Regular,2,3.28,4.6,0.075
+ORD100286,13-12-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7519,Bakery,Low Fat,2,8.06,3.4,0.052
+ORD100287,28-10-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU2824,Produce,Regular,5,12.17,4.3,0.129
+ORD100288,17-02-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU2469,Meat,Low Fat,1,6.04,4,0.059
+ORD100289,18-06-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU5335,Household,Regular,1,5.39,3.5,0.06
+ORD100290,19-10-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU2764,Produce,Low Fat,6,12.42,4.5,0.066
+ORD100291,18-04-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU2159,Personal Care,Regular,1,4.02,4.2,0.105
+ORD100292,20-01-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU1223,Household,Low Fat,1,5.7,3.1,0.089
+ORD100293,06-04-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7833,Produce,Low Fat,15,27.72,3.4,0.139
+ORD100294,23-11-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5607,Dairy,Regular,1,1.77,4,0.111
+ORD100295,04-05-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU6319,Snacks,Low Fat,1,3.23,4.6,0.079
+ORD100296,31-01-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1889,Beverages,Low Fat,3,7.6,3.9,0.095
+ORD100297,18-08-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU8756,Snacks,Low Fat,4,8.87,4.5,0.107
+ORD100298,17-08-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU7941,Meat,Regular,1,8.14,3.6,0.045
+ORD100299,26-04-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2877,Bakery,Regular,1,3.5,4.7,0.05
+ORD100300,24-08-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6781,Frozen,Regular,1,5.43,4,0.097
+ORD100301,21-01-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU2353,Frozen,Low Fat,1,5.47,4.4,0.082
+ORD100302,23-01-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU3763,Meat,Regular,1,9.5,3.6,0.119
+ORD100303,10-11-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU9791,Snacks,Low Fat,1,2.89,4.3,0.157
+ORD100304,29-08-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU6389,Dairy,Low Fat,4,10.33,4.6,0.112
+ORD100305,26-02-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU7121,Household,Regular,1,5.05,4.5,0.098
+ORD100306,26-01-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU1556,Produce,Regular,1,2.23,3.5,0.089
+ORD100307,24-12-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU7843,Personal Care,Low Fat,1,4.15,3.9,0.096
+ORD100308,06-10-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1440,Household,Regular,2,10.07,3.5,0.044
+ORD100309,13-09-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU8727,Dairy,Low Fat,1,2.1,4.6,0.093
+ORD100310,01-10-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU9974,Dairy,Low Fat,1,1.99,4.1,0.082
+ORD100311,18-09-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU4203,Snacks,Regular,1,2.58,4.1,0.1
+ORD100312,12-03-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU6285,Dairy,Low Fat,1,1.6,2.9,0.059
+ORD100313,25-05-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7668,Dairy,Low Fat,1,2.05,3.6,0.066
+ORD100314,12-11-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU3317,Beverages,Regular,1,2.13,3.8,0.01
+ORD100315,20-01-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9190,Dairy,Low Fat,1,2.23,4.4,0.061
+ORD100316,05-07-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU7651,Personal Care,Regular,1,3.94,3.8,0.12
+ORD100317,16-04-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU2469,Canned Foods,Regular,1,2.88,3.9,0.129
+ORD100318,23-10-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU3877,Personal Care,Low Fat,1,5.12,4.5,0.066
+ORD100319,11-09-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU6221,Dairy,Regular,1,2.23,3.9,0.106
+ORD100320,10-01-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU7265,Snacks,Regular,1,3.7,4.4,0.073
+ORD100321,10-12-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8819,Bakery,Regular,4,14.72,3.8,0.099
+ORD100322,31-10-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU2409,Canned Foods,Low Fat,1,2.51,4.3,0.113
+ORD100323,13-03-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU2695,Dairy,Low Fat,1,2.21,3.1,0.069
+ORD100324,23-08-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU4406,Meat,Regular,1,7.74,4.5,0.093
+ORD100325,11-04-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6105,Frozen,Regular,5,30.99,3.8,0.027
+ORD100326,25-12-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU1773,Produce,Low Fat,1,1.93,3.8,0.044
+ORD100327,27-04-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU6829,Personal Care,Regular,2,8.87,4.2,0.072
+ORD100328,10-12-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU9903,Snacks,Regular,1,3.58,2.2,0.094
+ORD100329,19-03-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU3258,Bakery,Low Fat,1,3.25,3.9,0.123
+ORD100330,23-10-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU8939,Canned Foods,Low Fat,1,2.79,3,0.098
+ORD100331,17-06-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU5490,Canned Foods,Low Fat,1,2.37,3.7,0.082
+ORD100332,28-08-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU3335,Dairy,Low Fat,2,3.97,3.8,0.069
+ORD100333,14-09-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU5997,Household,Regular,1,5.54,3.4,0.079
+ORD100334,18-02-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU2193,Snacks,Regular,1,2.56,3.3,0.083
+ORD100335,14-12-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU5568,Dairy,Regular,1,1.9,3.9,0.098
+ORD100336,18-01-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU8833,Snacks,Regular,1,3.17,4.3,0.137
+ORD100337,11-11-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU7709,Beverages,Regular,1,1.68,4,0.088
+ORD100338,05-02-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU7005,Produce,Low Fat,1,2.12,5,0.017
+ORD100339,23-07-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU2074,Snacks,Low Fat,1,2.98,4.9,0.086
+ORD100340,28-09-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3464,Household,Low Fat,1,5.37,4.9,0.104
+ORD100341,01-08-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU5428,Canned Foods,Regular,4,8.1,4.2,0.09
+ORD100342,07-03-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1598,Bakery,Low Fat,2,7.55,3.8,0.093
+ORD100343,08-11-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU7655,Bakery,Regular,1,3.92,4.1,0.053
+ORD100344,01-12-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU1897,Produce,Regular,1,2,3.2,0.095
+ORD100345,13-04-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU6969,Meat,Regular,1,9,3.8,0.142
+ORD100346,08-05-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU1544,Meat,Regular,2,19.97,4.3,0.087
+ORD100347,23-10-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU2461,Beverages,Low Fat,1,2.68,4.5,0.043
+ORD100348,03-06-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU8743,Beverages,Low Fat,6,16.29,3.5,0.088
+ORD100349,28-01-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU3520,Produce,Low Fat,7,13.06,3.9,0.067
+ORD100350,21-08-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU7184,Household,Low Fat,2,10.16,3.8,0.08
+ORD100351,30-03-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6607,Dairy,Regular,5,12.3,5,0.098
+ORD100352,26-06-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU9911,Personal Care,Low Fat,1,4.44,4.6,0.067
+ORD100353,18-11-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU4367,Bakery,Low Fat,1,3.43,4.4,0.084
+ORD100354,26-11-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU2079,Produce,Regular,2,3.79,3.1,0.045
+ORD100355,20-03-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU2654,Beverages,Regular,5,13.17,4.7,0.084
+ORD100356,30-10-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU6782,Dairy,Regular,1,2.4,5,0.069
+ORD100357,09-01-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU5080,Snacks,Low Fat,1,2.36,2.6,0.041
+ORD100358,18-12-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU9216,Bakery,Regular,1,3.6,3.9,0.081
+ORD100359,11-01-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4131,Produce,Regular,1,1.84,2.6,0.076
+ORD100360,24-04-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU6008,Meat,Low Fat,1,10.47,4.3,0.127
+ORD100361,15-06-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2995,Meat,Low Fat,1,6.55,4.1,0.109
+ORD100362,24-02-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU7572,Bakery,Low Fat,1,4.43,3.5,0.054
+ORD100363,10-12-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU1444,Dairy,Regular,1,2.17,2.9,0.068
+ORD100364,01-07-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU2883,Produce,Regular,16,35.82,3.6,0.034
+ORD100365,13-05-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU2417,Dairy,Regular,1,2.17,3.8,0.105
+ORD100366,07-07-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5087,Meat,Low Fat,1,9.56,3.7,0.106
+ORD100367,20-05-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5511,Snacks,Regular,3,7.54,3.3,0.066
+ORD100368,18-05-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU1761,Bakery,Low Fat,1,3.27,4.9,0.089
+ORD100369,09-06-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU7071,Meat,Regular,1,7.31,3,0.073
+ORD100370,01-02-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5027,Dairy,Regular,1,2.09,3.7,0.092
+ORD100371,15-03-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU1331,Snacks,Regular,1,3.06,3.4,0.093
+ORD100372,13-04-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5419,Produce,Low Fat,1,2.22,3.6,0.091
+ORD100373,20-10-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7065,Dairy,Regular,3,6.07,3.7,0.095
+ORD100374,05-08-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU8953,Personal Care,Low Fat,1,4.44,3.4,0.069
+ORD100375,06-09-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU7044,Household,Low Fat,2,9.56,4.9,0.1
+ORD100376,18-01-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU3770,Frozen,Low Fat,1,6.93,3.5,0.073
+ORD100377,01-07-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU8236,Produce,Regular,1,2.09,4.6,0.042
+ORD100378,20-07-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6492,Dairy,Regular,1,2.17,3.7,0.119
+ORD100379,18-11-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU9953,Bakery,Regular,2,5.34,3.9,0.108
+ORD100380,07-11-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU8887,Meat,Low Fat,1,4.09,4.6,0.033
+ORD100381,07-11-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU5796,Produce,Regular,1,2.47,4,0.101
+ORD100382,26-02-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU3962,Produce,Low Fat,1,1.8,4,0.091
+ORD100383,05-08-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU2265,Household,Regular,1,4.69,3.7,0.062
+ORD100384,31-12-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU8843,Beverages,Regular,1,2.92,3.9,0.08
+ORD100385,16-01-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU3815,Canned Foods,Regular,1,2.73,3.7,0.122
+ORD100386,31-08-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU4389,Produce,Low Fat,2,4.04,3.7,0.097
+ORD100387,25-06-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5310,Dairy,Regular,2,3.08,4.1,0.128
+ORD100388,02-09-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1023,Beverages,Low Fat,5,14.26,4.4,0.081
+ORD100389,07-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5341,Canned Foods,Low Fat,1,2.16,4.4,0.085
+ORD100390,07-12-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU2478,Snacks,Regular,1,2.98,3.8,0.101
+ORD100391,17-10-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU8971,Produce,Low Fat,1,2.32,3.8,0.116
+ORD100392,29-12-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU7057,Produce,Low Fat,1,1.7,3.7,0.078
+ORD100393,29-05-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU6430,Personal Care,Regular,4,17.44,4,0.128
+ORD100394,24-12-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU6611,Personal Care,Low Fat,1,3.59,4.1,0.044
+ORD100395,22-08-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU6063,Personal Care,Low Fat,2,7.95,3.5,0.101
+ORD100396,13-03-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU3196,Household,Regular,1,3.93,3.8,0.025
+ORD100397,19-04-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9401,Produce,Low Fat,3,7.07,3.3,0.08
+ORD100398,30-10-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU2018,Household,Regular,1,4.16,2.8,0.117
+ORD100399,26-04-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU4928,Canned Foods,Regular,3,5.84,4.6,0.112
+ORD100400,13-10-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU9916,Beverages,Low Fat,1,2.31,3.6,0.103
+ORD100401,20-05-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU6423,Household,Low Fat,2,8.68,4.1,0.074
+ORD100402,10-07-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU5327,Snacks,Regular,2,6.99,3.7,0.053
+ORD100403,25-03-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU8399,Household,Regular,1,4.63,4.1,0.046
+ORD100404,09-11-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7213,Beverages,Low Fat,1,2.88,3.3,0.049
+ORD100405,14-06-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU1530,Beverages,Regular,1,1.9,4,0.058
+ORD100406,29-03-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9348,Snacks,Regular,1,2.88,3.7,0.042
+ORD100407,28-12-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1883,Frozen,Low Fat,1,5.5,4.4,0.027
+ORD100408,11-08-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU2596,Snacks,Regular,3,11.77,3.2,0.063
+ORD100409,27-07-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU9674,Bakery,Low Fat,1,3.52,3.7,0.104
+ORD100410,13-05-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU3160,Bakery,Low Fat,1,3.76,4.8,0.033
+ORD100411,16-06-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU4679,Personal Care,Low Fat,3,13.2,3.2,0.096
+ORD100412,04-05-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU6733,Produce,Regular,5,13.06,3.7,0.097
+ORD100413,11-02-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU8273,Beverages,Low Fat,2,6,3.6,0.101
+ORD100414,21-09-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU9272,Produce,Regular,1,2.04,4.1,0.1
+ORD100415,10-09-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU2291,Dairy,Low Fat,2,2.99,3.6,0.1
+ORD100416,31-08-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6588,Canned Foods,Regular,4,9.27,3.9,0.075
+ORD100417,09-04-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3368,Frozen,Regular,1,6.54,3,0.119
+ORD100418,10-09-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU3459,Dairy,Regular,1,1.62,4.6,0.151
+ORD100419,01-02-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU8849,Snacks,Regular,1,2.83,3.4,0.057
+ORD100420,06-02-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9194,Produce,Low Fat,1,2.2,4.1,0.066
+ORD100421,09-08-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU3398,Produce,Low Fat,4,7.49,2.7,0.09
+ORD100422,26-02-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU9736,Produce,Regular,1,1.94,4.6,0.187
+ORD100423,01-01-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU7702,Personal Care,Regular,2,8.3,4.4,0.08
+ORD100424,03-07-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU6008,Snacks,Low Fat,1,2.53,3.5,0.066
+ORD100425,10-03-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU3280,Meat,Regular,2,14.19,4.6,0.092
+ORD100426,10-01-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3631,Snacks,Low Fat,1,3.25,3.7,0.111
+ORD100427,03-08-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9001,Canned Foods,Regular,9,22.44,3.6,0.078
+ORD100428,25-04-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU9792,Produce,Low Fat,1,1.58,3.7,0.108
+ORD100429,03-09-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU6783,Beverages,Regular,1,2.6,3.7,0.102
+ORD100430,17-06-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU1070,Bakery,Regular,4,13.52,4.2,0.149
+ORD100431,05-09-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1309,Frozen,Regular,2,8.83,3.8,0.089
+ORD100432,26-09-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU2849,Personal Care,Regular,1,4.21,3.9,0.121
+ORD100433,03-01-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU8433,Bakery,Low Fat,1,2.86,4.2,0.105
+ORD100434,02-07-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU7406,Produce,Regular,4,7.33,3.8,0.07
+ORD100435,14-03-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9596,Bakery,Regular,1,3.17,4,0.091
+ORD100436,19-03-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU2451,Dairy,Regular,6,11.05,4.4,0.063
+ORD100437,02-01-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU8556,Beverages,Regular,1,1.68,4,0.064
+ORD100438,06-12-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU1747,Bakery,Regular,1,4.12,3.9,0.021
+ORD100439,14-12-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5122,Meat,Regular,1,7.87,4.6,0.062
+ORD100440,11-11-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU7961,Household,Regular,1,4.54,3.8,0.077
+ORD100441,16-11-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU4759,Produce,Low Fat,4,9.37,3.9,0.065
+ORD100442,01-09-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU9566,Snacks,Low Fat,3,12.29,4.4,0.061
+ORD100443,09-05-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5592,Produce,Regular,2,3.46,4.5,0.101
+ORD100444,18-08-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1973,Bakery,Low Fat,1,3.66,3.6,0.113
+ORD100445,22-11-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU3029,Frozen,Low Fat,1,5.33,3.8,0.099
+ORD100446,27-06-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU6179,Snacks,Regular,1,3.33,3.8,0.107
+ORD100447,03-08-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU6346,Beverages,Low Fat,3,6.95,4.1,0.081
+ORD100448,09-04-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU6011,Household,Regular,1,5.99,4,0.056
+ORD100449,23-11-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6492,Produce,Low Fat,1,1.82,3.8,0.08
+ORD100450,28-10-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU4273,Produce,Low Fat,1,2.17,3.2,0.074
+ORD100451,02-10-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU8041,Produce,Regular,1,2.02,4.4,0.053
+ORD100452,20-02-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU8053,Personal Care,Regular,1,3.44,3.8,0.03
+ORD100453,13-02-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU5289,Beverages,Regular,1,2.03,4.1,0.118
+ORD100454,22-11-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU7652,Personal Care,Low Fat,1,3.39,3.8,0.105
+ORD100455,01-02-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU9632,Frozen,Regular,1,6.1,3.9,0.054
+ORD100456,15-07-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU9503,Beverages,Regular,1,2.53,3.1,0.098
+ORD100457,06-12-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7118,Produce,Regular,1,1.15,3.5,0.042
+ORD100458,28-02-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1912,Bakery,Low Fat,4,10.02,4.3,0.074
+ORD100459,11-02-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU6278,Frozen,Low Fat,1,7.19,3.9,0.097
+ORD100460,11-11-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU4515,Meat,Low Fat,1,7.17,4.2,0.119
+ORD100461,23-01-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU8899,Dairy,Regular,2,4.7,3.8,0.136
+ORD100462,13-09-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU8332,Meat,Regular,1,7.7,3.7,0.082
+ORD100463,20-09-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU2992,Dairy,Low Fat,7,11.72,4,0.094
+ORD100464,15-07-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU4730,Dairy,Regular,1,2.02,3.9,0.104
+ORD100465,16-07-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1925,Frozen,Low Fat,3,14.81,3.8,0.086
+ORD100466,16-05-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU8055,Snacks,Regular,1,2.94,3.5,0.094
+ORD100467,14-01-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU5682,Produce,Regular,1,2.13,4.5,0.115
+ORD100468,30-12-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU6620,Household,Low Fat,2,9.06,3.6,0.041
+ORD100469,22-04-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3788,Produce,Low Fat,1,2.03,3.5,0.111
+ORD100470,15-02-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU8962,Bakery,Regular,1,3.52,3.1,0.117
+ORD100471,22-09-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6088,Produce,Regular,2,3.46,3.9,0.065
+ORD100472,30-04-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU8190,Household,Regular,6,27.96,4.1,0.104
+ORD100473,26-03-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU9683,Produce,Regular,7,14.69,4.1,0.074
+ORD100474,02-02-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3333,Produce,Low Fat,2,4.28,3.7,0.065
+ORD100475,01-11-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1885,Produce,Regular,1,1.54,4.1,0.056
+ORD100476,30-04-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU7414,Frozen,Regular,1,7.58,4.6,0.092
+ORD100477,14-11-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU1151,Bakery,Regular,1,3.98,3.3,0.129
+ORD100478,22-04-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU7533,Bakery,Regular,1,4.64,3.4,0.113
+ORD100479,15-05-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU2285,Produce,Low Fat,7,12.58,4.5,0.05
+ORD100480,06-03-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU1932,Frozen,Regular,1,5.63,3.5,0.024
+ORD100481,31-08-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7825,Personal Care,Low Fat,3,10.15,3.4,0.083
+ORD100482,04-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU3775,Household,Regular,2,10.47,4.4,0.078
+ORD100483,26-06-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU6309,Personal Care,Regular,1,3.94,4.4,0.104
+ORD100484,29-06-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU2781,Produce,Regular,1,2.24,2.9,0.048
+ORD100485,27-01-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3861,Dairy,Low Fat,1,1.97,4.5,0.092
+ORD100486,27-06-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU8180,Produce,Low Fat,2,5.32,4.5,0.078
+ORD100487,13-05-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU1831,Snacks,Low Fat,5,13,3.9,0.08
+ORD100488,25-12-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3268,Produce,Regular,1,2.06,3.2,0.11
+ORD100489,16-04-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU3817,Canned Foods,Low Fat,2,4.15,4.9,0.052
+ORD100490,28-04-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU2082,Frozen,Low Fat,1,5.78,3.6,0.097
+ORD100491,07-04-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8229,Beverages,Regular,1,2.34,4.3,0.146
+ORD100492,07-03-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU9155,Bakery,Regular,2,7.41,4,0.067
+ORD100493,06-05-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU3808,Bakery,Regular,1,3.52,3.5,0.115
+ORD100494,09-04-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU9762,Frozen,Regular,15,111.1,4,0.107
+ORD100495,02-03-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1679,Bakery,Regular,1,2.86,3.8,0.05
+ORD100496,10-02-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU6028,Snacks,Regular,2,6.85,4.1,0.051
+ORD100497,31-05-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1941,Snacks,Low Fat,3,9.87,4,0.063
+ORD100498,12-03-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU6645,Frozen,Low Fat,1,5.4,4.4,0.133
+ORD100499,20-03-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU4206,Meat,Regular,1,8.58,3.9,0.097
+ORD100500,03-12-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU4577,Household,Low Fat,3,17.86,3.2,0.068
+ORD100501,20-03-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU8282,Snacks,Regular,1,2.86,4,0.051
+ORD100502,01-11-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU7175,Snacks,Low Fat,6,18.34,3.7,0.078
+ORD100503,01-01-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU9045,Snacks,Regular,3,10.55,3.5,0.129
+ORD100504,01-10-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU2672,Snacks,Low Fat,1,2.64,3.2,0.098
+ORD100505,05-07-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU3686,Produce,Regular,1,2.08,3.4,0.084
+ORD100506,03-03-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4907,Beverages,Regular,1,2.98,3.9,0.105
+ORD100507,27-05-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU2500,Snacks,Regular,1,3.29,3.4,0.146
+ORD100508,05-01-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU8595,Dairy,Low Fat,1,1.98,3.9,0.01
+ORD100509,13-09-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU2896,Produce,Regular,2,4.49,3.3,0.076
+ORD100510,08-01-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6408,Produce,Regular,1,2.56,3.1,0.129
+ORD100511,29-05-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU5353,Bakery,Regular,1,3.6,3.4,0.123
+ORD100512,17-04-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU9644,Personal Care,Low Fat,5,21.56,3.5,0.045
+ORD100513,15-11-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU5362,Produce,Regular,7,15.7,3.9,0.082
+ORD100514,26-08-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU5782,Frozen,Low Fat,1,7.04,4.2,0.079
+ORD100515,16-02-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU8222,Household,Low Fat,1,4.86,4.1,0.084
+ORD100516,15-09-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU6082,Snacks,Regular,1,3.06,4,0.041
+ORD100517,21-08-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU4613,Snacks,Regular,1,2.42,4.4,0.103
+ORD100518,29-01-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU8026,Produce,Low Fat,1,2.17,3.1,0.079
+ORD100519,24-12-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU2129,Frozen,Regular,1,5.75,4.3,0.102
+ORD100520,16-08-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU3944,Beverages,Low Fat,1,2.62,4.3,0.087
+ORD100521,18-01-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU5686,Meat,Low Fat,1,6.55,3.8,0.089
+ORD100522,15-07-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU3779,Snacks,Low Fat,4,14.94,3.8,0.034
+ORD100523,12-08-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9590,Snacks,Regular,2,5.83,3.8,0.029
+ORD100524,22-10-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU1400,Personal Care,Low Fat,1,4.46,4.9,0.032
+ORD100525,26-03-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU5312,Frozen,Low Fat,2,13.31,3.9,0.109
+ORD100526,06-02-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU4684,Dairy,Regular,1,1.61,4.7,0.075
+ORD100527,02-06-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU3661,Household,Low Fat,1,3.83,3.9,0.051
+ORD100528,27-04-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6426,Meat,Regular,1,8.84,3.8,0.045
+ORD100529,21-11-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU9612,Snacks,Low Fat,3,10.73,4.8,0.093
+ORD100530,19-05-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7470,Bakery,Regular,3,6.08,3.5,0.09
+ORD100531,04-01-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9490,Personal Care,Low Fat,1,2.37,4,0.075
+ORD100532,26-03-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7212,Canned Foods,Regular,2,4.31,4.9,0.071
+ORD100533,30-05-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6268,Snacks,Regular,3,11.69,4.1,0.087
+ORD100534,16-05-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU5854,Canned Foods,Low Fat,1,2.66,4.4,0.098
+ORD100535,28-04-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU5318,Canned Foods,Low Fat,1,2.68,4.7,0.074
+ORD100536,02-11-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8504,Snacks,Regular,1,2.7,3.9,0.075
+ORD100537,17-06-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU2876,Meat,Low Fat,1,8.26,3.5,0.08
+ORD100538,11-05-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8673,Dairy,Low Fat,3,8.49,3.9,0.022
+ORD100539,20-04-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4006,Household,Regular,1,6.12,3.1,0.063
+ORD100540,17-06-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU7506,Canned Foods,Low Fat,1,2.34,3.2,0.04
+ORD100541,23-05-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4347,Produce,Regular,2,4.44,3.7,0.088
+ORD100542,04-07-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8899,Bakery,Regular,1,3.26,3.8,0.083
+ORD100543,01-08-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU8149,Household,Regular,3,11.37,4.3,0.091
+ORD100544,15-02-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4239,Snacks,Regular,1,2.7,4.4,0.113
+ORD100545,01-02-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6766,Snacks,Regular,1,3.19,4,0.097
+ORD100546,05-12-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4044,Meat,Regular,1,9.3,3.9,0.098
+ORD100547,25-02-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU8342,Dairy,Regular,1,2.1,4.4,0.048
+ORD100548,12-10-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU4276,Dairy,Low Fat,1,1.86,4.5,0.088
+ORD100549,05-04-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU5274,Bakery,Regular,1,3.23,3.9,0.113
+ORD100550,31-10-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU2343,Meat,Low Fat,1,7.79,4.2,0.061
+ORD100551,03-02-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU4839,Produce,Regular,1,2.07,4.6,0.05
+ORD100552,03-06-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4083,Dairy,Regular,3,4.73,4.1,0.035
+ORD100553,27-07-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU7587,Frozen,Regular,1,7.17,4.1,0.049
+ORD100554,29-03-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU3824,Snacks,Regular,1,2.91,4.1,0.067
+ORD100555,21-06-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7168,Household,Low Fat,1,5.03,3.6,0.07
+ORD100556,16-10-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU3953,Frozen,Regular,3,16.07,4.6,0.147
+ORD100557,05-05-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU7444,Household,Regular,1,4.18,4.2,0.112
+ORD100558,23-10-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU6166,Beverages,Low Fat,1,2.36,3.5,0.104
+ORD100559,02-03-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU3614,Bakery,Regular,1,4.62,3.8,0.063
+ORD100560,19-09-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU8103,Dairy,Low Fat,3,6.73,4,0.08
+ORD100561,25-10-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU7105,Beverages,Low Fat,1,2.69,3.7,0.073
+ORD100562,08-03-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU6648,Canned Foods,Regular,2,5.21,3.7,0.055
+ORD100563,20-08-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU5470,Household,Low Fat,2,10.03,3.6,0.077
+ORD100564,05-07-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7403,Dairy,Regular,1,1.8,4.6,0.106
+ORD100565,16-01-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6892,Dairy,Low Fat,2,3.84,4.8,0.11
+ORD100566,06-05-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1605,Beverages,Regular,1,2.88,4.7,0.096
+ORD100567,14-08-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU9338,Produce,Low Fat,1,1.72,4.2,0.02
+ORD100568,22-06-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU8160,Dairy,Low Fat,2,4.09,3.8,0.108
+ORD100569,01-05-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU6311,Snacks,Regular,1,3.03,3.4,0.09
+ORD100570,17-02-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6938,Bakery,Regular,1,3.74,4.4,0.094
+ORD100571,11-09-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8054,Dairy,Regular,1,2.56,3.7,0.068
+ORD100572,20-02-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU1675,Produce,Regular,1,1.25,3.5,0.055
+ORD100573,15-07-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU4775,Bakery,Low Fat,1,3.22,3.8,0.118
+ORD100574,10-05-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1339,Meat,Low Fat,1,8.06,4.7,0.051
+ORD100575,21-11-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU5021,Beverages,Low Fat,1,2.92,4.5,0.077
+ORD100576,01-10-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU4061,Produce,Regular,5,8.94,3.6,0.087
+ORD100577,10-09-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1285,Produce,Low Fat,2,3.49,4.1,0.06
+ORD100578,28-11-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU9388,Beverages,Regular,1,2.74,4.2,0.042
+ORD100579,14-10-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4680,Frozen,Low Fat,5,37.1,3.7,0.093
+ORD100580,21-08-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU6064,Dairy,Low Fat,1,1.71,3.4,0.029
+ORD100581,11-08-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU4934,Beverages,Regular,3,8.04,3.2,0.081
+ORD100582,27-03-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU6885,Bakery,Regular,2,6.23,4.2,0.067
+ORD100583,03-02-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU1723,Snacks,Low Fat,1,2.85,4.5,0.053
+ORD100584,16-05-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU3416,Beverages,Low Fat,1,2.07,4.2,0.132
+ORD100585,19-10-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU4360,Beverages,Low Fat,1,2.52,3.9,0.093
+ORD100586,24-08-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU3407,Snacks,Low Fat,1,2.58,4.5,0.012
+ORD100587,08-06-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU5758,Household,Regular,1,6.1,4,0.074
+ORD100588,23-03-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU9066,Produce,Low Fat,1,1.7,2.7,0.105
+ORD100589,04-08-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU2007,Snacks,Low Fat,1,3.35,4.3,0.085
+ORD100590,29-11-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU7728,Snacks,Regular,7,21.69,4.7,0.161
+ORD100591,08-09-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU3391,Snacks,Regular,3,6.9,3.5,0.065
+ORD100592,04-09-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU7171,Produce,Low Fat,6,11.72,3.9,0.085
+ORD100593,07-11-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU9903,Produce,Regular,4,7.69,4.2,0.082
+ORD100594,09-04-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6776,Frozen,Regular,1,6.13,4.7,0.117
+ORD100595,18-12-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU7023,Snacks,Regular,1,2.43,4.6,0.074
+ORD100596,25-05-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU3989,Produce,Low Fat,1,2.01,3.2,0.07
+ORD100597,11-05-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5073,Snacks,Regular,4,12.27,3.8,0.076
+ORD100598,24-01-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU9277,Personal Care,Low Fat,1,4.04,4.2,0.096
+ORD100599,10-07-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU4903,Produce,Low Fat,1,2.58,4.2,0.069
+ORD100600,08-05-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU5366,Snacks,Regular,1,3.37,4.1,0.052
+ORD100601,05-05-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3939,Beverages,Low Fat,2,6.26,3.4,0.068
+ORD100602,24-07-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU3866,Personal Care,Regular,6,22.16,3.7,0.053
+ORD100603,18-05-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU6271,Snacks,Low Fat,2,6.05,4.3,0.048
+ORD100604,16-09-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU1888,Meat,Regular,1,8.66,4.1,0.063
+ORD100605,29-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU2310,Bakery,Regular,1,3.98,4.7,0.141
+ORD100606,25-04-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU1746,Meat,Low Fat,1,6.48,3.2,0.094
+ORD100607,26-01-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU1978,Snacks,Low Fat,5,13.5,4.4,0.111
+ORD100608,30-10-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU4034,Household,Low Fat,2,11.58,4.5,0.045
+ORD100609,16-08-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1225,Snacks,Low Fat,2,7.13,4.3,0.083
+ORD100610,14-10-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU5441,Beverages,Regular,1,2.73,4.3,0.128
+ORD100611,10-12-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU5829,Produce,Low Fat,5,10.62,4,0.103
+ORD100612,16-09-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9290,Frozen,Regular,1,6.09,3,0.073
+ORD100613,10-05-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7993,Snacks,Regular,2,6.95,4.4,0.077
+ORD100614,22-02-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU5609,Personal Care,Regular,1,3.53,5,0.107
+ORD100615,05-03-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU3448,Snacks,Low Fat,1,3.07,3.8,0.013
+ORD100616,08-04-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1324,Frozen,Regular,4,26.02,3.8,0.103
+ORD100617,24-08-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU3732,Personal Care,Regular,1,4.24,4.2,0.086
+ORD100618,21-11-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4405,Snacks,Low Fat,1,2.49,3.7,0.061
+ORD100619,23-06-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU9000,Produce,Low Fat,9,17.79,5,0.09
+ORD100620,12-03-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU7303,Snacks,Regular,1,3.04,4.4,0.062
+ORD100621,05-02-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU3623,Canned Foods,Low Fat,1,2.91,3.2,0.035
+ORD100622,22-03-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU3066,Produce,Regular,4,7.05,3.8,0.111
+ORD100623,10-10-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU2586,Beverages,Low Fat,1,2.85,4.7,0.086
+ORD100624,14-04-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU3365,Snacks,Low Fat,7,21.99,3.7,0.031
+ORD100625,10-05-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU9444,Snacks,Low Fat,2,7.11,3.9,0.052
+ORD100626,03-05-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU1527,Produce,Regular,1,2.47,4.5,0.01
+ORD100627,19-12-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8646,Dairy,Regular,2,4.95,4.3,0.037
+ORD100628,03-04-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU1842,Bakery,Low Fat,2,7.05,3.7,0.048
+ORD100629,29-03-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU8621,Household,Low Fat,1,4.26,4.1,0.051
+ORD100630,08-08-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1244,Frozen,Low Fat,1,5.53,4.3,0.061
+ORD100631,28-06-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU6811,Produce,Regular,1,1.66,4.4,0.026
+ORD100632,12-02-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU1413,Frozen,Regular,2,12.52,3.3,0.097
+ORD100633,06-11-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4924,Canned Foods,Regular,2,5.5,3.6,0.055
+ORD100634,10-01-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU3503,Snacks,Regular,4,7.64,3.4,0.066
+ORD100635,12-10-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6792,Bakery,Regular,1,3.94,5,0.1
+ORD100636,18-04-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU4894,Bakery,Low Fat,1,3.54,4.5,0.03
+ORD100637,12-10-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU9103,Dairy,Regular,6,10.55,2.5,0.042
+ORD100638,28-10-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU6009,Snacks,Regular,1,3.34,3.7,0.113
+ORD100639,20-08-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU2694,Canned Foods,Low Fat,1,2.64,4.1,0.046
+ORD100640,27-06-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU7372,Household,Low Fat,1,4.96,4,0.086
+ORD100641,25-08-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU8257,Dairy,Regular,1,1.96,4.4,0.108
+ORD100642,04-08-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9116,Dairy,Regular,1,1.85,3.4,0.073
+ORD100643,10-01-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU6642,Dairy,Low Fat,1,2.32,3.7,0.104
+ORD100644,27-07-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU4873,Snacks,Low Fat,1,2.71,4.1,0.063
+ORD100645,09-11-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1817,Household,Regular,4,16.83,5,0.02
+ORD100646,13-05-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU1576,Bakery,Low Fat,3,10.2,3.3,0.054
+ORD100647,19-06-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU9009,Snacks,Low Fat,3,10.3,4.3,0.027
+ORD100648,14-11-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU4801,Snacks,Low Fat,1,2.99,3.2,0.084
+ORD100649,01-07-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7798,Frozen,Regular,1,7.46,4.2,0.05
+ORD100650,17-12-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU2066,Dairy,Regular,1,1.73,3.8,0.086
+ORD100651,04-07-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU4490,Household,Regular,1,4.83,2.4,0.07
+ORD100652,21-03-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU4468,Bakery,Low Fat,1,3.84,3.8,0.052
+ORD100653,08-02-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU7792,Snacks,Regular,7,20.15,4,0.085
+ORD100654,26-01-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU5572,Personal Care,Regular,3,12.39,4,0.117
+ORD100655,24-02-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2523,Snacks,Regular,2,5.77,4.5,0.117
+ORD100656,23-08-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU8476,Household,Regular,1,4.5,4.1,0.077
+ORD100657,25-08-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU8860,Personal Care,Regular,1,3.2,4.1,0.081
+ORD100658,26-10-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU7883,Household,Low Fat,1,4.81,3.4,0.065
+ORD100659,30-12-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9306,Snacks,Regular,9,22.42,4.2,0.089
+ORD100660,24-09-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU4285,Personal Care,Low Fat,2,8.36,4.7,0.086
+ORD100661,06-03-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8257,Bakery,Low Fat,3,10.57,4.4,0.142
+ORD100662,11-06-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU1687,Dairy,Low Fat,1,1.63,3.2,0.086
+ORD100663,19-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU8533,Beverages,Regular,1,2.56,4.2,0.11
+ORD100664,17-01-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8702,Bakery,Low Fat,1,3.24,3.9,0.066
+ORD100665,07-07-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9896,Dairy,Regular,4,8.63,4.3,0.074
+ORD100666,20-11-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5276,Snacks,Regular,1,4.18,4.2,0.136
+ORD100667,07-12-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU4326,Snacks,Regular,1,2.86,4.2,0.015
+ORD100668,10-10-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU7365,Personal Care,Low Fat,1,4.79,3.4,0.065
+ORD100669,01-12-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU5319,Dairy,Regular,1,1.52,4.1,0.113
+ORD100670,10-01-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU1559,Bakery,Regular,1,3.54,4.2,0.072
+ORD100671,19-12-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU9997,Dairy,Regular,3,6.01,4.3,0.051
+ORD100672,08-05-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU7532,Produce,Regular,1,1.35,4.4,0.073
+ORD100673,29-09-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9977,Bakery,Low Fat,4,18,4.3,0.043
+ORD100674,09-04-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5786,Bakery,Low Fat,1,4.07,3.8,0.095
+ORD100675,22-12-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9645,Personal Care,Low Fat,1,4.71,4,0.061
+ORD100676,05-11-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU6489,Frozen,Regular,6,38.48,5,0.104
+ORD100677,12-05-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4728,Frozen,Regular,4,22.94,4,0.072
+ORD100678,23-07-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8603,Household,Regular,3,15.47,4.5,0.125
+ORD100679,10-12-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5723,Produce,Regular,1,1.91,3.9,0.096
+ORD100680,05-06-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU2542,Produce,Low Fat,1,1.83,4.9,0.125
+ORD100681,11-05-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU7677,Snacks,Regular,1,2.79,3.4,0.098
+ORD100682,24-04-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU4603,Snacks,Regular,1,2.23,4.5,0.069
+ORD100683,04-03-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU2578,Beverages,Regular,2,4.86,3.1,0.091
+ORD100684,01-01-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1519,Produce,Low Fat,1,1.9,4,0.056
+ORD100685,31-10-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1238,Snacks,Regular,2,5.33,5,0.086
+ORD100686,13-06-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU3196,Dairy,Regular,1,2.09,4.2,0.054
+ORD100687,27-06-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1224,Canned Foods,Low Fat,1,2.98,5,0.043
+ORD100688,01-01-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU4012,Frozen,Regular,2,11.74,4,0.093
+ORD100689,22-07-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU9455,Canned Foods,Low Fat,1,2.9,4.3,0.051
+ORD100690,10-01-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU1855,Snacks,Regular,2,6.08,3.8,0.07
+ORD100691,25-12-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU3065,Produce,Regular,1,2.02,3.7,0.144
+ORD100692,13-12-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU7978,Household,Low Fat,1,5.23,3.9,0.112
+ORD100693,22-09-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8750,Meat,Regular,1,7.71,4.4,0.063
+ORD100694,30-12-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU7062,Frozen,Low Fat,1,4.7,3,0.114
+ORD100695,11-07-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU7382,Dairy,Low Fat,1,1.73,3.4,0.087
+ORD100696,11-08-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU9066,Household,Low Fat,3,19.8,4.3,0.01
+ORD100697,19-03-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1787,Dairy,Regular,4,9.06,4.5,0.066
+ORD100698,18-10-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU9254,Snacks,Low Fat,1,2.55,3.8,0.105
+ORD100699,28-08-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU4754,Beverages,Regular,1,1.84,3.2,0.118
+ORD100700,26-10-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU2225,Personal Care,Low Fat,1,4.13,4.1,0.097
+ORD100701,04-02-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU3179,Dairy,Regular,3,4.86,4.2,0.124
+ORD100702,05-02-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9933,Frozen,Low Fat,2,11.92,3.8,0.039
+ORD100703,16-04-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU1107,Frozen,Regular,5,24.52,3.2,0.052
+ORD100704,14-03-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9002,Household,Regular,1,5.83,4.5,0.086
+ORD100705,14-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU4477,Household,Regular,1,5.31,4,0.049
+ORD100706,29-01-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU7697,Bakery,Regular,1,4.12,3.4,0.101
+ORD100707,14-08-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU4437,Canned Foods,Regular,3,6.43,4,0.043
+ORD100708,14-07-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU8683,Produce,Regular,2,3.64,4.7,0.119
+ORD100709,08-11-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU8416,Snacks,Regular,1,2.29,3.7,0.05
+ORD100710,13-03-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3416,Meat,Low Fat,3,21.81,4.7,0.039
+ORD100711,14-12-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6090,Personal Care,Low Fat,3,11.83,3.7,0.039
+ORD100712,04-05-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU5182,Beverages,Low Fat,2,5.87,4.7,0.079
+ORD100713,24-12-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU9662,Snacks,Regular,1,3.62,4.5,0.076
+ORD100714,03-07-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU4680,Meat,Regular,1,6.92,3.9,0.082
+ORD100715,31-01-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU7577,Household,Regular,2,9.68,4.3,0.137
+ORD100716,12-10-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU1111,Household,Regular,1,5.71,4.1,0.044
+ORD100717,09-10-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9756,Produce,Regular,1,1.27,3.6,0.103
+ORD100718,19-06-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU2842,Beverages,Regular,1,3.14,3.5,0.012
+ORD100719,20-04-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU8913,Frozen,Regular,1,6.44,4.6,0.082
+ORD100720,14-12-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU4355,Meat,Regular,3,28.81,3.6,0.059
+ORD100721,09-09-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU3781,Snacks,Regular,4,11.71,3.8,0.142
+ORD100722,20-08-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU4381,Canned Foods,Regular,1,2.63,4.4,0.099
+ORD100723,13-05-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU1080,Dairy,Regular,4,8.37,3.1,0.092
+ORD100724,28-08-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU5695,Canned Foods,Regular,1,2.55,3.7,0.055
+ORD100725,18-01-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU2353,Beverages,Regular,1,3.04,4.4,0.047
+ORD100726,07-08-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU2399,Bakery,Regular,1,3.74,3.9,0.045
+ORD100727,18-04-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU8568,Beverages,Low Fat,1,1.73,3.5,0.05
+ORD100728,26-09-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3577,Dairy,Low Fat,1,1.81,3.7,0.069
+ORD100729,04-01-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU1364,Beverages,Low Fat,1,2.34,3.8,0.106
+ORD100730,31-08-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU8977,Dairy,Low Fat,1,1.87,3.8,0.073
+ORD100731,12-07-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU6333,Frozen,Regular,4,23.2,5,0.083
+ORD100732,20-06-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU2501,Meat,Regular,5,41.64,3.6,0.109
+ORD100733,19-11-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU7040,Bakery,Regular,8,28.7,4,0.095
+ORD100734,27-02-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU9411,Produce,Low Fat,1,2.06,3.4,0.095
+ORD100735,07-06-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU9736,Dairy,Regular,3,5.36,4,0.095
+ORD100736,17-07-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7212,Snacks,Regular,2,6.23,4.6,0.09
+ORD100737,06-12-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU9246,Household,Regular,1,5.67,3.8,0.143
+ORD100738,14-11-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU8926,Snacks,Low Fat,2,3.63,3.6,0.095
+ORD100739,13-09-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU4205,Produce,Regular,1,2.05,4.1,0.124
+ORD100740,11-10-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU4291,Meat,Regular,1,6.28,5,0.045
+ORD100741,23-11-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU7275,Meat,Low Fat,4,33.06,4.1,0.126
+ORD100742,30-07-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU6575,Beverages,Regular,4,8.56,4.1,0.099
+ORD100743,24-09-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9392,Personal Care,Regular,1,4,4.8,0.07
+ORD100744,24-05-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1856,Meat,Regular,1,9.35,3.6,0.111
+ORD100745,15-07-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4338,Snacks,Regular,1,2.35,3.3,0.107
+ORD100746,14-04-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1554,Dairy,Low Fat,2,3.28,4.6,0.054
+ORD100747,27-10-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU4450,Meat,Low Fat,6,59.07,4.1,0.085
+ORD100748,21-07-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU3026,Bakery,Low Fat,2,7.87,4.4,0.089
+ORD100749,31-07-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU6290,Dairy,Regular,1,1.36,3.4,0.104
+ORD100750,18-07-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU8657,Frozen,Regular,2,9.15,4.2,0.119
+ORD100751,01-12-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU9972,Snacks,Regular,1,2.38,4.2,0.077
+ORD100752,09-06-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU6324,Bakery,Low Fat,1,4.17,4.5,0.111
+ORD100753,07-01-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU8795,Canned Foods,Low Fat,2,5.87,4.4,0.046
+ORD100754,26-12-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU8557,Produce,Regular,1,1.41,3.4,0.089
+ORD100755,02-06-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU4550,Snacks,Low Fat,1,3.04,3.4,0.062
+ORD100756,28-04-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU8116,Produce,Regular,1,2.2,4,0.088
+ORD100757,23-09-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU8428,Beverages,Low Fat,1,2.21,3.5,0.082
+ORD100758,21-07-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU5951,Snacks,Low Fat,5,14.75,3.8,0.064
+ORD100759,23-09-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5944,Beverages,Regular,2,4.67,4.2,0.144
+ORD100760,07-09-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU9345,Dairy,Low Fat,2,4.49,3.6,0.06
+ORD100761,06-03-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU8477,Beverages,Regular,3,6.99,3.3,0.108
+ORD100762,25-07-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6182,Frozen,Regular,2,9.77,4.3,0.092
+ORD100763,17-10-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU9643,Beverages,Regular,1,2.11,3.6,0.049
+ORD100764,06-03-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU8298,Beverages,Regular,1,2.39,4.1,0.067
+ORD100765,14-07-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU1187,Produce,Low Fat,2,5.46,5,0.111
+ORD100766,27-01-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU7132,Canned Foods,Low Fat,3,6.73,3.3,0.078
+ORD100767,05-09-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1195,Produce,Regular,2,5.01,3.9,0.053
+ORD100768,11-09-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU5637,Household,Regular,1,4.84,3.9,0.136
+ORD100769,12-11-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1418,Dairy,Low Fat,3,6.34,4.1,0.037
+ORD100770,06-05-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU5225,Beverages,Low Fat,2,4.86,3.7,0.082
+ORD100771,25-05-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU1357,Beverages,Regular,4,9.83,4,0.087
+ORD100772,17-12-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU2514,Household,Regular,2,8.58,3.5,0.106
+ORD100773,29-03-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU5272,Dairy,Regular,6,12.64,3.7,0.075
+ORD100774,12-12-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU3981,Dairy,Low Fat,1,1.73,3.8,0.032
+ORD100775,27-01-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU6702,Meat,Low Fat,4,30.58,4.1,0.135
+ORD100776,28-11-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU5767,Personal Care,Low Fat,1,3.66,4,0.079
+ORD100777,19-03-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4558,Beverages,Regular,1,2.99,3.2,0.05
+ORD100778,12-03-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU2795,Household,Regular,1,6.1,4.6,0.12
+ORD100779,15-04-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU8854,Personal Care,Regular,1,3.56,4.1,0.033
+ORD100780,03-01-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3364,Produce,Low Fat,1,2.05,4.2,0.101
+ORD100781,18-12-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU7088,Bakery,Regular,5,18.31,4.7,0.102
+ORD100782,24-03-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8824,Produce,Regular,1,1.87,3.6,0.1
+ORD100783,11-03-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU3594,Produce,Regular,1,1.58,3.6,0.102
+ORD100784,12-03-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3661,Household,Regular,6,37.69,4.6,0.093
+ORD100785,20-11-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5033,Produce,Regular,1,2.27,4.6,0.061
+ORD100786,10-01-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU8566,Snacks,Regular,1,2.81,3.3,0.064
+ORD100787,03-05-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9356,Frozen,Regular,1,5.53,4.4,0.096
+ORD100788,18-11-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU2982,Meat,Regular,1,8.2,3.6,0.124
+ORD100789,07-10-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU7137,Meat,Regular,1,8.87,3.1,0.055
+ORD100790,09-07-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9295,Snacks,Regular,3,5.99,4.2,0.064
+ORD100791,11-06-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1001,Meat,Low Fat,1,6.22,3.9,0.032
+ORD100792,02-11-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU9710,Meat,Regular,1,9.76,5,0.047
+ORD100793,23-08-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU6125,Snacks,Low Fat,2,6.24,3.7,0.059
+ORD100794,03-09-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU5452,Snacks,Regular,1,3.23,4.6,0.036
+ORD100795,30-05-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5284,Beverages,Regular,6,15.79,4.4,0.052
+ORD100796,05-08-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU8344,Frozen,Regular,1,5.07,4.2,0.103
+ORD100797,17-06-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU9331,Beverages,Low Fat,7,19.4,3.9,0.078
+ORD100798,05-06-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU5950,Personal Care,Low Fat,1,2.79,4.1,0.089
+ORD100799,13-08-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU4214,Meat,Regular,1,7.94,3.8,0.06
+ORD100800,27-08-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU7353,Bakery,Regular,1,3.56,3.1,0.153
+ORD100801,20-10-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU9964,Meat,Low Fat,1,7.44,4.8,0.055
+ORD100802,30-12-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU1743,Bakery,Regular,1,3.66,2.9,0.09
+ORD100803,01-02-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU1975,Beverages,Regular,1,3.05,3.6,0.083
+ORD100804,26-03-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU4985,Beverages,Regular,1,2.5,4.9,0.056
+ORD100805,03-12-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU5757,Beverages,Regular,3,7.19,3.9,0.089
+ORD100806,18-01-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU9794,Bakery,Regular,6,22.72,4.1,0.08
+ORD100807,18-04-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1461,Frozen,Low Fat,1,6.26,4.1,0.068
+ORD100808,03-06-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU8379,Snacks,Regular,4,12.8,3.7,0.094
+ORD100809,27-01-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU6339,Household,Regular,1,6.45,4.1,0.087
+ORD100810,18-09-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9838,Snacks,Low Fat,2,6.1,4.6,0.052
+ORD100811,31-10-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU8746,Produce,Regular,2,3.2,3.2,0.048
+ORD100812,11-01-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU7022,Dairy,Low Fat,1,2.36,3.5,0.052
+ORD100813,27-04-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU3350,Bakery,Low Fat,1,3.64,4.7,0.087
+ORD100814,14-06-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3072,Canned Foods,Low Fat,1,2.79,4.1,0.091
+ORD100815,02-01-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU9160,Beverages,Regular,1,1.89,3.8,0.097
+ORD100816,26-09-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1421,Canned Foods,Low Fat,1,1.95,4.1,0.087
+ORD100817,21-01-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU2261,Household,Regular,1,3.93,4.1,0.096
+ORD100818,19-01-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU8699,Bakery,Regular,1,2.62,3.7,0.077
+ORD100819,11-09-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU6682,Canned Foods,Low Fat,1,3.02,4.4,0.073
+ORD100820,05-11-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU3152,Beverages,Regular,3,6.67,4.4,0.044
+ORD100821,30-10-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU3570,Snacks,Regular,1,2.5,3.2,0.054
+ORD100822,01-07-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU2916,Meat,Regular,1,4.16,3.6,0.075
+ORD100823,14-04-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU2018,Frozen,Regular,1,5.72,4.6,0.075
+ORD100824,16-01-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU7220,Dairy,Regular,1,1.91,3.5,0.15
+ORD100825,12-12-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU9614,Canned Foods,Regular,3,7.39,4.9,0.104
+ORD100826,03-02-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU1885,Canned Foods,Regular,1,2.56,4.4,0.051
+ORD100827,29-06-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU8552,Produce,Regular,7,13.9,3.6,0.131
+ORD100828,20-04-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU9544,Canned Foods,Low Fat,1,2.18,3.9,0.082
+ORD100829,06-10-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU1167,Dairy,Low Fat,2,4.26,4.7,0.075
+ORD100830,19-03-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU3542,Household,Low Fat,1,4.14,3.9,0.072
+ORD100831,27-06-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU4084,Canned Foods,Regular,3,6.74,4.6,0.106
+ORD100832,10-12-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU5841,Bakery,Low Fat,1,4.29,3.4,0.104
+ORD100833,20-10-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU5021,Snacks,Regular,1,2.84,4.1,0.106
+ORD100834,11-04-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU3555,Produce,Low Fat,1,2.07,3.4,0.056
+ORD100835,12-08-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU9540,Dairy,Low Fat,1,1.93,4.5,0.042
+ORD100836,23-07-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU4365,Meat,Regular,1,6.75,4.1,0.071
+ORD100837,03-09-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU6708,Produce,Low Fat,3,5.71,3.3,0.092
+ORD100838,18-09-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU9257,Beverages,Regular,1,2.44,4.9,0.053
+ORD100839,14-09-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4216,Household,Regular,1,3.96,3.7,0.042
+ORD100840,04-12-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU3882,Frozen,Low Fat,1,6.01,3.4,0.056
+ORD100841,27-06-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU3694,Household,Regular,1,4.79,2.9,0.099
+ORD100842,16-11-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU7298,Beverages,Regular,1,2.33,4.5,0.074
+ORD100843,07-04-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5827,Produce,Low Fat,2,5.43,4.5,0.062
+ORD100844,08-02-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU2046,Snacks,Regular,1,2.9,3.3,0.086
+ORD100845,17-01-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU6800,Produce,Regular,1,1.64,4.1,0.031
+ORD100846,24-09-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU7285,Household,Regular,1,4.57,3.5,0.072
+ORD100847,15-10-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9382,Household,Low Fat,7,42.94,4.2,0.052
+ORD100848,06-08-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5075,Frozen,Low Fat,4,21.61,3.7,0.141
+ORD100849,06-12-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU5693,Produce,Regular,3,6.2,4,0.116
+ORD100850,08-03-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU3151,Household,Low Fat,4,23.32,4,0.118
+ORD100851,13-02-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU8983,Household,Low Fat,1,6.3,4.2,0.13
+ORD100852,05-08-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1382,Household,Regular,1,6.04,3.8,0.076
+ORD100853,17-10-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU2020,Produce,Regular,3,8.24,4.1,0.088
+ORD100854,03-05-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2947,Snacks,Regular,1,2.5,3.8,0.116
+ORD100855,10-05-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4658,Meat,Regular,2,16.35,3.7,0.095
+ORD100856,07-10-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4199,Dairy,Regular,1,1.89,4.8,0.106
+ORD100857,09-07-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU4201,Bakery,Regular,1,3.73,4,0.034
+ORD100858,04-09-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU7462,Dairy,Low Fat,1,1.68,3.8,0.026
+ORD100859,26-07-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU1862,Dairy,Regular,1,2.14,4.6,0.062
+ORD100860,09-03-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3594,Household,Low Fat,1,5.68,3.9,0.083
+ORD100861,19-08-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6625,Snacks,Low Fat,1,2.6,4,0.057
+ORD100862,09-06-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU9704,Dairy,Low Fat,1,1.86,3.7,0.065
+ORD100863,20-12-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU3655,Beverages,Regular,6,12.48,3.5,0.112
+ORD100864,23-08-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1188,Beverages,Regular,1,2.69,4.4,0.119
+ORD100865,11-08-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU7716,Canned Foods,Low Fat,1,2.19,4.3,0.064
+ORD100866,10-11-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU9046,Household,Regular,1,6.1,4.3,0.088
+ORD100867,03-07-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU2584,Bakery,Low Fat,5,16.72,4.1,0.079
+ORD100868,19-10-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU9650,Produce,Low Fat,2,3.55,4.5,0.066
+ORD100869,20-09-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU7842,Dairy,Low Fat,1,1.58,4.9,0.05
+ORD100870,13-01-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3665,Beverages,Low Fat,1,2.85,4.6,0.105
+ORD100871,19-06-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU2986,Frozen,Regular,1,6.85,4.2,0.085
+ORD100872,20-06-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8501,Bakery,Low Fat,6,23.94,3.5,0.129
+ORD100873,07-05-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU8404,Produce,Regular,2,4.28,3.5,0.094
+ORD100874,06-05-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU5171,Dairy,Low Fat,5,10.49,3.4,0.064
+ORD100875,15-10-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU2805,Produce,Regular,3,4.15,4.5,0.094
+ORD100876,02-04-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU3640,Beverages,Low Fat,2,5.45,4.9,0.074
+ORD100877,03-02-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8047,Dairy,Low Fat,3,5.77,4,0.073
+ORD100878,11-04-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5179,Canned Foods,Regular,5,13.69,4.3,0.041
+ORD100879,12-02-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6917,Household,Regular,1,5.23,3.7,0.081
+ORD100880,24-12-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6251,Frozen,Regular,6,43.85,4.3,0.1
+ORD100881,20-05-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU8702,Household,Low Fat,1,5.29,3.6,0.093
+ORD100882,24-12-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU7587,Snacks,Regular,1,2.57,3.6,0.071
+ORD100883,19-07-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU7063,Household,Regular,1,5.89,4,0.041
+ORD100884,25-05-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU8476,Snacks,Low Fat,1,3.18,4.7,0.086
+ORD100885,21-06-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU6497,Bakery,Regular,1,4.1,4.6,0.078
+ORD100886,19-05-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU9353,Snacks,Low Fat,1,3.2,4.3,0.049
+ORD100887,03-11-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU8333,Dairy,Regular,1,2.38,4.5,0.084
+ORD100888,01-12-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5742,Bakery,Low Fat,1,2.85,4.4,0.035
+ORD100889,10-01-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU7722,Frozen,Regular,4,14.16,4,0.048
+ORD100890,15-01-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU2848,Frozen,Regular,1,4.91,4.8,0.063
+ORD100891,09-06-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU5274,Dairy,Regular,1,1.81,4.6,0.08
+ORD100892,20-08-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1024,Dairy,Regular,1,1.77,3.5,0.032
+ORD100893,08-03-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU9885,Dairy,Regular,1,2.02,4.6,0.114
+ORD100894,06-11-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU2551,Produce,Regular,1,2.5,3.9,0.052
+ORD100895,13-03-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU5071,Personal Care,Low Fat,5,17.85,5,0.079
+ORD100896,09-07-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU9849,Produce,Regular,7,13.67,4.6,0.06
+ORD100897,30-10-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6316,Canned Foods,Regular,1,2.72,3.9,0.02
+ORD100898,13-07-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1924,Beverages,Regular,1,2.46,4.1,0.074
+ORD100899,18-09-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU6236,Meat,Regular,1,5.69,3.3,0.055
+ORD100900,26-08-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5459,Produce,Low Fat,1,1.73,4.7,0.066
+ORD100901,26-01-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU7707,Frozen,Regular,6,41.96,3.8,0.101
+ORD100902,19-10-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1822,Produce,Regular,1,1.89,5,0.114
+ORD100903,20-10-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6957,Dairy,Regular,1,1.54,3.8,0.105
+ORD100904,22-07-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1012,Snacks,Regular,1,1.97,4.9,0.09
+ORD100905,11-04-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU9212,Meat,Low Fat,1,8.79,3.6,0.022
+ORD100906,19-05-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU1014,Beverages,Regular,1,2.14,4.3,0.14
+ORD100907,15-10-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU3704,Beverages,Regular,1,2.79,4.4,0.058
+ORD100908,17-05-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9608,Frozen,Regular,2,14.86,3.4,0.033
+ORD100909,30-01-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU7381,Produce,Regular,5,10.28,4.6,0.059
+ORD100910,04-02-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU3688,Household,Low Fat,1,5.9,4.8,0.066
+ORD100911,06-01-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU4534,Produce,Regular,3,6.21,3.4,0.053
+ORD100912,09-06-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5131,Household,Regular,1,3.63,3.7,0.101
+ORD100913,14-08-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8847,Beverages,Regular,1,2.65,3.9,0.108
+ORD100914,14-08-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9011,Produce,Regular,1,1.92,3.6,0.049
+ORD100915,07-03-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU8326,Snacks,Low Fat,1,3.34,3.2,0.091
+ORD100916,28-07-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU3017,Dairy,Regular,1,1.95,4.5,0.06
+ORD100917,21-05-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU4638,Frozen,Low Fat,6,39.95,4.2,0.061
+ORD100918,20-09-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU2256,Beverages,Regular,1,2.39,3.9,0.071
+ORD100919,16-06-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU7731,Household,Regular,1,5.17,4.8,0.066
+ORD100920,27-06-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU8549,Bakery,Regular,1,4.02,4.3,0.042
+ORD100921,06-04-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU3489,Produce,Regular,1,1.99,3.4,0.05
+ORD100922,06-05-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU7805,Meat,Regular,4,37.48,3,0.15
+ORD100923,18-11-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU9051,Frozen,Low Fat,1,6.51,3.4,0.098
+ORD100924,02-06-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU9428,Dairy,Regular,1,1.9,3.1,0.074
+ORD100925,06-10-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU6249,Meat,Low Fat,3,28.92,4.2,0.022
+ORD100926,23-12-2022,OUT009,Grocery Store,Medium,Tier 1,2018,SKU9902,Canned Foods,Low Fat,4,11.39,3.6,0.109
+ORD100927,05-11-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6479,Personal Care,Regular,1,5,3.5,0.096
+ORD100928,17-12-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU8060,Snacks,Regular,1,2.82,4.6,0.065
+ORD100929,06-02-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU6091,Frozen,Regular,2,13.8,3.5,0.094
+ORD100930,29-04-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU5340,Beverages,Regular,3,8.56,4.8,0.042
+ORD100931,03-05-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1145,Household,Low Fat,1,4.54,4.4,0.11
+ORD100932,28-03-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU6888,Frozen,Regular,1,5.61,4.6,0.038
+ORD100933,18-05-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4779,Personal Care,Regular,8,33.44,3.5,0.044
+ORD100934,20-09-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU7469,Produce,Low Fat,1,2.08,4.6,0.048
+ORD100935,03-03-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU2042,Snacks,Regular,1,2.53,3.6,0.118
+ORD100936,19-04-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6622,Meat,Regular,1,5.98,3,0.089
+ORD100937,02-02-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9978,Produce,Low Fat,1,2.46,4.5,0.044
+ORD100938,03-10-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU7413,Produce,Regular,4,6.45,4.5,0.111
+ORD100939,07-08-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU4306,Dairy,Regular,1,1.97,4,0.115
+ORD100940,03-01-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU9009,Dairy,Low Fat,6,14.83,3.4,0.07
+ORD100941,02-11-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU9227,Frozen,Regular,1,6.48,4.2,0.035
+ORD100942,23-05-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5778,Household,Low Fat,1,4.36,4.8,0.091
+ORD100943,05-07-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU1339,Dairy,Regular,1,2.04,4.1,0.062
+ORD100944,10-05-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5708,Personal Care,Regular,2,8.71,3.7,0.093
+ORD100945,01-01-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU3788,Snacks,Regular,1,2.78,4.5,0.08
+ORD100946,31-07-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3070,Meat,Regular,4,38.21,3.5,0.076
+ORD100947,16-11-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU6229,Beverages,Low Fat,1,2.16,3.4,0.124
+ORD100948,04-02-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU6439,Frozen,Low Fat,2,10.12,4.2,0.118
+ORD100949,11-03-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8907,Snacks,Regular,1,3.77,3.3,0.056
+ORD100950,29-07-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU9604,Frozen,Regular,1,5.84,3,0.077
+ORD100951,15-07-2022,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU2391,Beverages,Low Fat,1,2.5,3.7,0.078
+ORD100952,30-09-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU3798,Household,Regular,3,10.97,4.6,0.078
+ORD100953,19-12-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU3093,Bakery,Low Fat,1,3.05,4.8,0.081
+ORD100954,27-02-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU3444,Snacks,Low Fat,1,1.43,3.4,0.115
+ORD100955,03-09-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU5051,Personal Care,Regular,5,18.19,3.7,0.108
+ORD100956,05-12-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU7833,Produce,Regular,6,12.32,3.2,0.058
+ORD100957,30-10-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU2106,Snacks,Regular,4,10.48,5,0.084
+ORD100958,23-01-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU1981,Canned Foods,Low Fat,3,6.39,4.3,0.075
+ORD100959,12-09-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU6932,Frozen,Regular,1,6.22,5,0.078
+ORD100960,30-08-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3264,Meat,Low Fat,1,9.68,4.4,0.05
+ORD100961,24-11-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU5314,Household,Low Fat,1,4.69,3.9,0.091
+ORD100962,14-03-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU1581,Produce,Regular,1,1.7,3.6,0.092
+ORD100963,09-04-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU8107,Bakery,Low Fat,1,3.22,4.4,0.098
+ORD100964,22-08-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU3407,Produce,Regular,5,9.57,3.6,0.107
+ORD100965,09-10-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU6862,Snacks,Low Fat,6,14.9,4,0.067
+ORD100966,29-05-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU6679,Household,Low Fat,1,5.71,3.2,0.068
+ORD100967,08-01-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU4014,Meat,Regular,4,29.22,3.6,0.084
+ORD100968,15-03-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU3500,Meat,Low Fat,2,13.01,4,0.106
+ORD100969,20-10-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU7906,Dairy,Regular,1,2.02,4,0.071
+ORD100970,20-07-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU3983,Bakery,Low Fat,2,7.44,4.1,0.114
+ORD100971,10-01-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU7800,Personal Care,Low Fat,5,23.48,3.5,0.086
+ORD100972,15-08-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8598,Personal Care,Regular,1,4.44,4.1,0.075
+ORD100973,17-03-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU5847,Produce,Low Fat,1,1.96,3.9,0.097
+ORD100974,03-01-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU6113,Produce,Low Fat,1,2.07,3.8,0.099
+ORD100975,16-12-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU6391,Frozen,Low Fat,1,6.77,4.1,0.048
+ORD100976,14-12-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU5813,Meat,Low Fat,2,17.04,4.9,0.072
+ORD100977,13-07-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8820,Meat,Low Fat,1,7.16,4.3,0.064
+ORD100978,12-10-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU9487,Produce,Low Fat,3,5.36,4.3,0.097
+ORD100979,22-02-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU6554,Dairy,Low Fat,2,4,5,0.12
+ORD100980,13-06-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU6634,Canned Foods,Regular,1,2.62,5,0.102
+ORD100981,02-06-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU9742,Household,Low Fat,1,4.75,4.2,0.101
+ORD100982,09-01-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU3631,Household,Regular,1,5.1,4.2,0.083
+ORD100983,26-05-2024,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU1767,Household,Low Fat,1,5.45,4.2,0.071
+ORD100984,20-11-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU6706,Meat,Regular,4,36.31,3.9,0.064
+ORD100985,21-11-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU4412,Snacks,Low Fat,1,3.13,3.7,0.129
+ORD100986,26-12-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU3884,Produce,Low Fat,3,6.39,3.2,0.113
+ORD100987,02-07-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU3190,Dairy,Low Fat,1,2.24,3.7,0.071
+ORD100988,11-02-2022,OUT015,Grocery Store,Small,Tier 2,2012,SKU7436,Canned Foods,Regular,4,9.17,4,0.12
+ORD100989,04-02-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU5835,Dairy,Low Fat,4,7.82,4.1,0.064
+ORD100990,25-10-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU1912,Bakery,Low Fat,7,22.17,5,0.135
+ORD100991,04-11-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4888,Produce,Regular,1,1.48,3.4,0.108
+ORD100992,01-05-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU7758,Household,Low Fat,1,4.24,4.5,0.081
+ORD100993,03-09-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1968,Produce,Regular,1,1.78,3.3,0.096
+ORD100994,20-10-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU2923,Household,Regular,2,11.13,3,0.092
+ORD100995,01-12-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU6472,Snacks,Low Fat,1,2.84,4.1,0.089
+ORD100996,25-07-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU8772,Canned Foods,Regular,1,2.65,4.3,0.077
+ORD100997,01-07-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU6670,Bakery,Low Fat,8,21.7,4.5,0.059
+ORD100998,12-11-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU9462,Bakery,Low Fat,1,3.01,3.9,0.127
+ORD100999,04-12-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1875,Produce,Regular,1,2.11,2.9,0.077
+ORD101000,21-09-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU8261,Produce,Low Fat,1,1.8,4.8,0.056
+ORD101001,15-06-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU5073,Personal Care,Low Fat,1,4.21,3.7,0.046
+ORD101002,25-12-2023,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5801,Dairy,Regular,1,2.59,4.6,0.086
+ORD101003,30-04-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU7023,Dairy,Low Fat,2,3.68,4.1,0.134
+ORD101004,03-12-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU4683,Household,Low Fat,6,30.56,4,0.105
+ORD101005,28-07-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU3491,Beverages,Low Fat,1,2.77,4,0.054
+ORD101006,06-02-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU7363,Produce,Low Fat,1,2.05,4.6,0.075
+ORD101007,30-03-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7128,Snacks,Regular,1,3.05,4,0.102
+ORD101008,09-06-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7934,Bakery,Regular,1,3.27,4.2,0.089
+ORD101009,25-09-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU5716,Canned Foods,Regular,1,2.81,4.3,0.083
+ORD101010,07-02-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU4172,Canned Foods,Regular,3,6.93,4,0.111
+ORD101011,13-11-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU2284,Beverages,Regular,1,1.75,4.1,0.08
+ORD101012,23-03-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU4432,Frozen,Regular,1,5.04,3.7,0.07
+ORD101013,07-04-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU8661,Dairy,Low Fat,1,2.53,4.1,0.087
+ORD101014,07-02-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU6982,Personal Care,Low Fat,1,2.41,4.2,0.069
+ORD101015,16-08-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU4684,Snacks,Regular,5,18.12,4.7,0.072
+ORD101016,31-08-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2527,Bakery,Regular,1,3.31,3.6,0.103
+ORD101017,04-06-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1716,Produce,Regular,2,3.76,4.3,0.13
+ORD101018,18-10-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU9809,Frozen,Regular,2,11.31,3.9,0.075
+ORD101019,11-06-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8099,Personal Care,Low Fat,1,4.11,4.2,0.11
+ORD101020,24-06-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU9484,Household,Low Fat,1,3.92,4.6,0.095
+ORD101021,21-11-2023,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU2081,Household,Regular,2,10.57,4.6,0.09
+ORD101022,06-04-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8850,Snacks,Regular,1,2.75,4.3,0.096
+ORD101023,23-08-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU7721,Produce,Low Fat,2,4.21,3.9,0.11
+ORD101024,08-11-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU9051,Bakery,Regular,1,3.68,4,0.103
+ORD101025,25-09-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU2356,Snacks,Low Fat,4,10.32,3.1,0.08
+ORD101026,18-01-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU7473,Personal Care,Low Fat,4,16.56,4.2,0.076
+ORD101027,22-11-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU2065,Meat,Regular,5,34.33,4.6,0.079
+ORD101028,01-06-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU7958,Beverages,Low Fat,1,2.94,4,0.062
+ORD101029,18-05-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2982,Beverages,Low Fat,3,6.69,4.3,0.083
+ORD101030,24-12-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU2405,Dairy,Low Fat,1,2.21,3.8,0.05
+ORD101031,10-09-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU9743,Meat,Low Fat,1,10.66,4.2,0.094
+ORD101032,04-10-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU1350,Personal Care,Regular,1,3.43,4.8,0.116
+ORD101033,16-02-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU5090,Beverages,Regular,3,9,3.6,0.106
+ORD101034,26-06-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU5720,Household,Regular,1,5.11,3.5,0.114
+ORD101035,10-07-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU6275,Dairy,Regular,2,4.18,3.2,0.045
+ORD101036,25-01-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU2605,Household,Low Fat,1,4.91,3.6,0.141
+ORD101037,02-03-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU4380,Beverages,Low Fat,1,2.7,4,0.085
+ORD101038,26-10-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU9737,Snacks,Regular,1,3.34,4.5,0.02
+ORD101039,21-04-2022,OUT011,Grocery Store,Medium,Tier 3,2007,SKU5106,Meat,Low Fat,1,9.55,3.7,0.092
+ORD101040,04-02-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU6810,Personal Care,Regular,1,3.57,3.8,0.09
+ORD101041,12-06-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU2370,Dairy,Low Fat,1,1.99,3,0.117
+ORD101042,29-04-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU1989,Dairy,Low Fat,1,2.3,4.5,0.11
+ORD101043,03-08-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU5625,Household,Low Fat,1,3.44,3.9,0.065
+ORD101044,02-08-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4352,Bakery,Regular,1,2.63,3.5,0.084
+ORD101045,10-04-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU1084,Beverages,Regular,6,15.19,4,0.067
+ORD101046,04-02-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU7512,Household,Low Fat,1,5.67,3.8,0.077
+ORD101047,08-08-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU3764,Meat,Low Fat,4,36.29,5,0.043
+ORD101048,11-03-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU5309,Beverages,Low Fat,3,7.41,3.5,0.066
+ORD101049,02-08-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU1950,Produce,Low Fat,1,1.88,3.6,0.144
+ORD101050,13-10-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU6398,Bakery,Low Fat,1,3.42,3,0.1
+ORD101051,15-06-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5946,Household,Regular,1,5.11,4.2,0.057
+ORD101052,08-05-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU5324,Produce,Regular,1,2.24,4.3,0.048
+ORD101053,05-11-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU6108,Snacks,Regular,1,2.47,3.6,0.055
+ORD101054,16-04-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU5171,Bakery,Regular,1,3.66,3.9,0.057
+ORD101055,21-04-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1201,Meat,Regular,3,18.34,3.6,0.059
+ORD101056,07-03-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9760,Snacks,Low Fat,1,3.26,3.4,0.062
+ORD101057,06-08-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU9572,Household,Regular,4,21.12,4.4,0.095
+ORD101058,04-02-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7636,Frozen,Regular,1,5.72,4.4,0.102
+ORD101059,27-05-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU9187,Frozen,Low Fat,1,6.35,3.9,0.088
+ORD101060,11-04-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8623,Personal Care,Low Fat,1,4.8,4.5,0.117
+ORD101061,14-09-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU8174,Canned Foods,Regular,1,2.75,4.5,0.111
+ORD101062,24-01-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8160,Household,Low Fat,2,10.04,4.6,0.017
+ORD101063,01-05-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU7190,Personal Care,Regular,2,7.7,3.9,0.104
+ORD101064,09-05-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU1673,Household,Regular,1,3.97,3.7,0.119
+ORD101065,09-02-2024,OUT004,Convenience Store,Small,Tier 3,2005,SKU8591,Snacks,Low Fat,2,5.24,3.8,0.066
+ORD101066,20-07-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU3065,Snacks,Regular,1,1.96,4,0.062
+ORD101067,16-05-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU6327,Snacks,Regular,1,3.46,4.2,0.054
+ORD101068,16-04-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU2678,Meat,Regular,2,18.46,5,0.056
+ORD101069,30-11-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU1051,Produce,Regular,1,1.65,3.6,0.135
+ORD101070,17-07-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU9355,Beverages,Regular,1,1.84,4.2,0.042
+ORD101071,30-11-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU9186,Frozen,Regular,1,6.15,4.8,0.095
+ORD101072,29-10-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU4126,Meat,Low Fat,1,8.34,4.7,0.082
+ORD101073,15-06-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU6728,Canned Foods,Regular,6,14.45,3.7,0.13
+ORD101074,06-07-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU6251,Canned Foods,Low Fat,2,4.53,4.5,0.051
+ORD101075,06-06-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU9423,Canned Foods,Regular,1,2.65,3.9,0.075
+ORD101076,14-11-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8370,Personal Care,Low Fat,1,4.34,4.3,0.056
+ORD101077,19-03-2024,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7447,Snacks,Low Fat,1,3.12,3.8,0.085
+ORD101078,14-06-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU1524,Canned Foods,Regular,4,10.82,4.1,0.095
+ORD101079,17-02-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU5281,Household,Low Fat,2,8.78,3,0.108
+ORD101080,05-08-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU9616,Frozen,Regular,4,25.35,3.9,0.074
+ORD101081,21-04-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU9447,Dairy,Low Fat,1,1.84,4.6,0.1
+ORD101082,25-09-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU3026,Meat,Regular,7,61.97,4,0.074
+ORD101083,17-06-2022,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU9141,Dairy,Regular,3,6.3,3.1,0.092
+ORD101084,04-06-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU5176,Frozen,Low Fat,1,5.87,4.5,0.076
+ORD101085,23-02-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU2371,Snacks,Regular,1,3.3,3.8,0.079
+ORD101086,17-08-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU9990,Produce,Low Fat,1,2.02,4.2,0.082
+ORD101087,26-08-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU6132,Produce,Low Fat,1,2.35,3.4,0.059
+ORD101088,21-07-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU2752,Produce,Regular,3,6.3,3.9,0.091
+ORD101089,13-10-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3418,Snacks,Low Fat,1,2.92,3.9,0.051
+ORD101090,06-12-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU1567,Snacks,Regular,1,2.89,4.3,0.097
+ORD101091,02-03-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU8937,Household,Low Fat,3,15.08,4.5,0.071
+ORD101092,22-05-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU1464,Personal Care,Regular,2,6.56,3.9,0.042
+ORD101093,02-08-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU8636,Household,Low Fat,1,5.09,3.5,0.059
+ORD101094,04-05-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU9793,Household,Regular,1,4.69,3.6,0.036
+ORD101095,02-12-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU7450,Beverages,Regular,2,4.25,4.2,0.041
+ORD101096,23-03-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU1742,Household,Regular,1,4.37,3.9,0.057
+ORD101097,21-12-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU9664,Personal Care,Regular,1,3.17,3.8,0.041
+ORD101098,12-12-2022,OUT010,Grocery Store,Small,Tier 1,2019,SKU7005,Snacks,Low Fat,1,2.32,4.1,0.11
+ORD101099,15-04-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU5644,Beverages,Low Fat,2,5.69,3.2,0.076
+ORD101100,15-11-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU7174,Household,Low Fat,1,5.05,3,0.154
+ORD101101,31-07-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU5067,Beverages,Low Fat,8,20.14,4.5,0.09
+ORD101102,15-02-2024,OUT015,Grocery Store,Small,Tier 2,2012,SKU5936,Bakery,Regular,4,14.67,3.8,0.044
+ORD101103,27-01-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU1797,Snacks,Low Fat,1,3.31,4.5,0.112
+ORD101104,12-08-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU9985,Snacks,Regular,1,1.98,4.3,0.043
+ORD101105,26-03-2024,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1361,Dairy,Low Fat,2,3.72,3.9,0.08
+ORD101106,06-01-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU6669,Produce,Low Fat,2,4.68,3.5,0.074
+ORD101107,29-09-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU8688,Produce,Low Fat,1,1.58,3.2,0.099
+ORD101108,05-12-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU1804,Personal Care,Low Fat,9,37.52,4,0.088
+ORD101109,02-01-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU5724,Snacks,Regular,1,2.79,3.8,0.063
+ORD101110,30-10-2024,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU5721,Bakery,Regular,6,18.43,3.6,0.078
+ORD101111,28-08-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU1881,Meat,Regular,1,7.49,4.7,0.11
+ORD101112,08-07-2024,OUT014,Grocery Store,Large,Tier 3,2018,SKU3022,Snacks,Regular,1,2.48,4.2,0.103
+ORD101113,26-08-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU8663,Bakery,Low Fat,5,16.39,3.2,0.06
+ORD101114,29-08-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU7409,Household,Regular,1,4.71,3.8,0.077
+ORD101115,22-01-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU4315,Bakery,Regular,2,7.04,3.3,0.112
+ORD101116,19-02-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5684,Personal Care,Regular,1,3.5,4.2,0.088
+ORD101117,29-10-2024,OUT020,Convenience Store,Medium,Tier 3,2013,SKU1199,Produce,Low Fat,1,1.8,4.3,0.124
+ORD101118,17-05-2023,OUT015,Grocery Store,Small,Tier 2,2012,SKU5989,Beverages,Regular,1,2.94,4.1,0.066
+ORD101119,19-07-2023,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5433,Produce,Regular,1,1.96,4.3,0.091
+ORD101120,25-01-2024,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU4471,Meat,Regular,1,6.94,4.3,0.078
+ORD101121,03-05-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1427,Bakery,Low Fat,1,3.52,4.1,0.043
+ORD101122,02-12-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU3184,Dairy,Regular,1,2.11,4.8,0.085
+ORD101123,15-11-2024,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU3546,Bakery,Low Fat,1,3.92,3.9,0.113
+ORD101124,24-07-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4033,Beverages,Low Fat,2,5.16,3.7,0.064
+ORD101125,10-05-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU3764,Meat,Regular,1,9.34,4.3,0.079
+ORD101126,06-12-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU7115,Snacks,Regular,1,2.54,3.8,0.132
+ORD101127,25-07-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU3900,Snacks,Low Fat,5,14.55,3.7,0.155
+ORD101128,31-01-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU4020,Produce,Regular,1,2,3.7,0.076
+ORD101129,20-05-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3661,Canned Foods,Low Fat,1,2.27,3.9,0.051
+ORD101130,15-07-2022,OUT016,Grocery Store,Medium,Tier 2,2017,SKU3578,Snacks,Low Fat,1,3.28,4.2,0.046
+ORD101131,04-02-2022,OUT003,Supermarket Type 1,Medium,Tier 1,2016,SKU1010,Beverages,Low Fat,9,18.94,3.8,0.089
+ORD101132,08-12-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU4097,Frozen,Regular,1,6.47,2.6,0.035
+ORD101133,21-09-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU4904,Personal Care,Regular,1,4.43,3.7,0.07
+ORD101134,19-03-2023,OUT011,Grocery Store,Medium,Tier 3,2007,SKU2141,Household,Regular,1,4.47,3.3,0.079
+ORD101135,15-09-2023,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU6557,Snacks,Low Fat,1,2.93,2.9,0.134
+ORD101136,07-02-2024,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU6298,Dairy,Low Fat,2,3.51,3.7,0.074
+ORD101137,21-04-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU2463,Produce,Low Fat,3,6.2,4.3,0.066
+ORD101138,21-01-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU5015,Canned Foods,Low Fat,2,5.02,4.6,0.087
+ORD101139,22-11-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU3051,Household,Regular,1,6.12,3.8,0.08
+ORD101140,16-05-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU5805,Dairy,Regular,1,2.84,4.5,0.045
+ORD101141,01-09-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU8511,Personal Care,Low Fat,2,7.08,3.8,0.076
+ORD101142,17-01-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU7071,Produce,Low Fat,1,1.84,3.9,0.086
+ORD101143,18-05-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU1544,Beverages,Regular,1,2.8,3.5,0.076
+ORD101144,02-06-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU4480,Dairy,Regular,3,6.6,4.6,0.029
+ORD101145,16-01-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU1794,Household,Regular,2,9.39,4.7,0.093
+ORD101146,27-08-2023,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU3879,Dairy,Regular,1,2.73,3.6,0.055
+ORD101147,23-05-2024,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU6458,Produce,Low Fat,6,12.94,3.7,0.08
+ORD101148,21-07-2022,OUT004,Convenience Store,Small,Tier 3,2005,SKU2408,Produce,Regular,1,1.57,2.9,0.089
+ORD101149,24-06-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU9707,Snacks,Regular,1,2.2,3.2,0.049
+ORD101150,10-11-2022,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8796,Bakery,Low Fat,1,3.92,3.9,0.082
+ORD101151,14-02-2022,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU3842,Frozen,Regular,1,7.05,4.1,0.09
+ORD101152,24-02-2022,OUT014,Grocery Store,Large,Tier 3,2018,SKU1175,Produce,Regular,1,1.29,4,0.107
+ORD101153,29-09-2023,OUT016,Grocery Store,Medium,Tier 2,2017,SKU5073,Beverages,Regular,4,9.22,4.1,0.053
+ORD101154,12-04-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU1712,Household,Regular,2,12.59,3.6,0.052
+ORD101155,04-04-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU2086,Frozen,Low Fat,1,5.79,4,0.125
+ORD101156,26-06-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU8696,Frozen,Regular,2,11.2,3.5,0.099
+ORD101157,31-10-2022,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU3963,Snacks,Low Fat,2,5.23,4.7,0.08
+ORD101158,24-01-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5405,Bakery,Low Fat,2,6.82,4,0.057
+ORD101159,11-06-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU1656,Household,Regular,1,4.86,4.3,0.051
+ORD101160,22-04-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU4584,Frozen,Low Fat,1,5.55,3.9,0.086
+ORD101161,24-03-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU8618,Household,Low Fat,1,6.48,4.4,0.097
+ORD101162,15-08-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU3970,Beverages,Regular,1,2.46,3.7,0.01
+ORD101163,19-09-2023,OUT009,Grocery Store,Medium,Tier 1,2018,SKU6133,Canned Foods,Low Fat,3,6.68,3.6,0.082
+ORD101164,22-05-2023,OUT010,Grocery Store,Small,Tier 1,2019,SKU2041,Bakery,Low Fat,1,3.6,4.2,0.132
+ORD101165,01-06-2023,OUT001,Supermarket Type 2,Large,Tier 2,2011,SKU1244,Meat,Regular,1,8.79,3.9,0.091
+ORD101166,26-05-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU8187,Produce,Regular,2,4.08,4,0.068
+ORD101167,24-09-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU7762,Household,Regular,1,5.43,3.6,0.048
+ORD101168,05-09-2022,OUT019,Supermarket Type 1,Medium,Tier 2,2009,SKU3602,Bakery,Regular,1,3.9,4,0.079
+ORD101169,15-05-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU2347,Personal Care,Low Fat,1,4.54,3.9,0.075
+ORD101170,08-02-2023,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU1592,Produce,Low Fat,1,1.96,3.9,0.093
+ORD101171,03-07-2022,OUT020,Convenience Store,Medium,Tier 3,2013,SKU1037,Snacks,Low Fat,1,2.78,3.6,0.06
+ORD101172,10-10-2023,OUT020,Convenience Store,Medium,Tier 3,2013,SKU4964,Frozen,Low Fat,1,5.9,3.3,0.099
+ORD101173,25-06-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5838,Household,Low Fat,1,4.72,4,0.018
+ORD101174,14-11-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU3272,Beverages,Regular,1,2.28,3.9,0.104
+ORD101175,29-03-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8169,Meat,Low Fat,1,7.78,3.8,0.079
+ORD101176,02-05-2024,OUT016,Grocery Store,Medium,Tier 2,2017,SKU5852,Snacks,Low Fat,1,3,4.3,0.022
+ORD101177,27-07-2023,OUT005,Supermarket Type 1,Medium,Tier 1,2021,SKU5713,Snacks,Low Fat,10,28.74,3.5,0.081
+ORD101178,25-06-2023,OUT012,Convenience Store,Small,Tier 2,2006,SKU7562,Dairy,Regular,1,1.77,4.4,0.104
+ORD101179,20-07-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU4589,Frozen,Regular,1,5.59,4,0.08
+ORD101180,07-06-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU4866,Snacks,Low Fat,4,11.31,3.3,0.111
+ORD101181,11-02-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU3883,Household,Regular,1,4.5,4.4,0.033
+ORD101182,27-04-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU7254,Snacks,Low Fat,1,3.26,4,0.069
+ORD101183,03-02-2023,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU3857,Beverages,Regular,1,2.77,3,0.113
+ORD101184,19-04-2023,OUT004,Convenience Store,Small,Tier 3,2005,SKU9186,Dairy,Regular,2,2.4,4.1,0.108
+ORD101185,07-04-2022,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU8701,Household,Low Fat,7,36.18,3.9,0.086
+ORD101186,05-02-2023,OUT014,Grocery Store,Large,Tier 3,2018,SKU6163,Household,Regular,2,9.53,4,0.077
+ORD101187,05-07-2022,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5269,Dairy,Regular,1,1.5,4.2,0.08
+ORD101188,02-05-2022,OUT007,Supermarket Type 1,Small,Tier 2,2016,SKU7670,Dairy,Low Fat,1,1.91,4.6,0.061
+ORD101189,25-09-2024,OUT009,Grocery Store,Medium,Tier 1,2018,SKU5143,Produce,Low Fat,1,1.46,4,0.073
+ORD101190,26-02-2023,OUT017,Supermarket Type 1,Large,Tier 1,2011,SKU3612,Produce,Regular,1,1.95,4.2,0.095
+ORD101191,12-07-2024,OUT008,Supermarket Type 2,Medium,Tier 1,2023,SKU7742,Produce,Regular,1,2.3,3.7,0.083
+ORD101192,02-11-2024,OUT013,Supermarket Type 2,Small,Tier 2,2022,SKU5835,Produce,Regular,1,1.86,4,0.09
+ORD101193,22-07-2024,OUT011,Grocery Store,Medium,Tier 3,2007,SKU6647,Household,Low Fat,1,5.77,4.6,0.071
+ORD101194,30-03-2024,OUT012,Convenience Store,Small,Tier 2,2006,SKU9585,Bakery,Regular,4,12.74,4.7,0.095
+ORD101195,16-03-2024,OUT006,Supermarket Type 2,Small,Tier 1,2020,SKU8092,Snacks,Low Fat,1,3.27,3.6,0.059
+ORD101196,11-04-2022,OUT012,Convenience Store,Small,Tier 2,2006,SKU5953,Snacks,Low Fat,1,3.18,4.1,0.073
+ORD101197,18-07-2024,OUT010,Grocery Store,Small,Tier 1,2019,SKU2466,Frozen,Low Fat,1,5.95,4.1,0.053
+ORD101198,22-07-2023,OUT018,Supermarket Type 2,Small,Tier 1,2015,SKU1732,Beverages,Low Fat,5,13.31,3.5,0.061
+ORD101199,26-07-2022,OUT002,Supermarket Type 2,Small,Tier 2,2008,SKU9796,Produce,Regular,1,1.88,4.3,0.127
