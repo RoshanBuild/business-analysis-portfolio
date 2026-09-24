@@ -1,0 +1,12 @@
+USE CASE: EVIDENCE SUMMARISATION
+
+Using only supplied authorised evidence and case context:
+- identify evidence considered;
+- summarise material source-grounded facts;
+- identify missing information;
+- identify conflicts;
+- preserve uncertainty and ambiguity;
+- include source references;
+- produce a concise draft evidence summary.
+
+Do not decide fraud, dispute outcome, evidence sufficiency, refund approval or any other authoritative business outcome.

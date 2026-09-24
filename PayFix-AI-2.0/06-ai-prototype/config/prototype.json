@@ -1,0 +1,18 @@
+{
+  "prototype_name": "PayFix AI 2.0 Controlled AI Prototype",
+  "provider": "ollama",
+  "ollama_base_url": "http://localhost:11434",
+  "default_model": "llama3.2:3b",
+  "temperature": 0,
+  "prompt_versions": {
+    "evidence": "PRM-ES-v1.0-local",
+    "handoff": "PRM-HS-v1.0-local"
+  },
+  "context_versions": {
+    "evidence": "CTX-ES-v1.0",
+    "handoff": "CTX-HS-v1.0"
+  },
+  "synthetic_data_only": true,
+  "production_use": false,
+  "production_approval": "Not Granted"
+}

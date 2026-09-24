@@ -1,0 +1,25 @@
+PayFix AI 2.0 Synthetic Dataset Generation Summary
+========================================================
+Seed: 20260730
+Case records: 2,500
+Event records: 19,424
+Evidence records: 6,041
+SLA-breached cases: 1,040
+Raw validation failures: 41
+Clean validation failures: 0
+
+Dispute category counts:
+- Unauthorised Transaction: 429
+- Delayed Refund: 379
+- Failed Payment: 329
+- Merchant Non-confirmation: 284
+- Duplicate Debit: 278
+- Subscription Dispute: 264
+- Incorrect Amount: 223
+- Cash Withdrawal Dispute: 171
+- Other: 143
+
+Important notice:
+All records are synthetic and created solely for portfolio analysis.
+No real customer, account, payment-card, banking, identity, address,
+email, telephone, or transaction data is included.

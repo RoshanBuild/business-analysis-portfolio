@@ -1,0 +1,25 @@
+﻿dataset,rule_id,validation_rule,records_checked,failure_count,pass_count,status
+dispute_cases_raw.csv,DQ-01,case_id must be unique and non-null,2500,10,2490,FAIL
+dispute_cases_raw.csv,DQ-02,transaction_amount_gbp must be greater than zero,2500,0,2500,PASS
+dispute_cases_raw.csv,DQ-03,refund_amount_gbp cannot exceed transaction_amount_gbp,2500,10,2490,FAIL
+dispute_cases_raw.csv,DQ-04,transaction_datetime must precede submission_datetime,2500,8,2492,FAIL
+dispute_cases_raw.csv,DQ-05,first_response_datetime cannot precede submission,2500,0,2500,PASS
+dispute_cases_raw.csv,DQ-06,resolution_datetime cannot precede submission,2500,0,2500,PASS
+dispute_cases_raw.csv,DQ-07,final statuses require a resolution date,2500,6,2494,FAIL
+dispute_cases_raw.csv,DQ-08,pending statuses must not contain a final resolution date,2500,0,2500,PASS
+dispute_cases_raw.csv,DQ-09,fraud referrals require Fraud Review or a Fraud Referral outcome,2500,0,2500,PASS
+dispute_cases_raw.csv,DQ-12,SLA flag must agree with resolution duration and target,2500,0,2500,PASS
+dispute_cases_raw.csv,DQ-13,dispute categories must match the controlled data dictionary,2500,7,2493,FAIL
+dispute_cases_raw.csv,DQ-14,no direct personal or banking identifiers are permitted,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-01,case_id must be unique and non-null,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-02,transaction_amount_gbp must be greater than zero,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-03,refund_amount_gbp cannot exceed transaction_amount_gbp,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-04,transaction_datetime must precede submission_datetime,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-05,first_response_datetime cannot precede submission,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-06,resolution_datetime cannot precede submission,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-07,final statuses require a resolution date,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-08,pending statuses must not contain a final resolution date,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-09,fraud referrals require Fraud Review or a Fraud Referral outcome,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-12,SLA flag must agree with resolution duration and target,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-13,dispute categories must match the controlled data dictionary,2500,0,2500,PASS
+dispute_cases_clean.csv,DQ-14,no direct personal or banking identifiers are permitted,2500,0,2500,PASS

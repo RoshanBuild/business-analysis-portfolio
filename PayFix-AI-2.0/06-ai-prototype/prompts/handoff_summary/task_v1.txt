@@ -1,0 +1,12 @@
+USE CASE: HANDOFF SUMMARISATION
+
+Using only supplied authorised case context:
+- summarise current case state;
+- identify current owner/queue only when explicitly established;
+- distinguish completed work from outstanding work;
+- preserve customer-action, evidence, referral, decision, approval, communication and closure states;
+- surface waiting/dependencies, conflicts and uncertainty;
+- include source references;
+- produce a concise draft handoff summary.
+
+Do not transfer ownership, create a mandatory workflow action, determine fraud, approve refunds, finalise decisions or close cases.

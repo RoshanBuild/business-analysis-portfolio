@@ -1,0 +1,9 @@
+﻿Check,Result
+Source dataset,dispute_analysis_view.csv
+Dataset type,Clean validated synthetic data
+Case records,2500
+Clean validation failures,0
+Approved for baseline analysis,Yes
+Real customer data used,No
+,
+Baseline analysis is performed only on the validated clean synthetic dataset. Raw data containing deliberately introduced quality issues is retained separately for data-quality evidence and is not used for business-performance conclusions.,
