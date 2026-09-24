@@ -1,0 +1,9 @@
+Prototype Notes
+
+This Streamlit prototype was created to demonstrate how a Technical Business Analyst can translate business problems into a working MVP concept.
+
+The prototype connects the business analysis documentation with a simple system interface. It shows how dispute data can be viewed, how cases can be classified, how refund eligibility rules can be applied, how SLA breaches can be checked, and how customer responses can be standardised.
+
+The AI triage logic is rule-based for demonstration purposes. It is not a production AI model. The purpose is to show how AI-assisted decision support could be designed safely, with human oversight for sensitive refund, fraud, high-risk, and high-value cases.
+
+This prototype supports interview discussion for roles such as Technical Business Analyst, IT Business Analyst, Business Systems Analyst, Product Analyst, Junior Product Owner, and FinTech Business Analyst.
